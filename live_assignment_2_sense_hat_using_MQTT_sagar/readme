@@ -1,0 +1,6 @@
+pressure.py:create sqlite database and insert pressure data into sqlite database with given interval of time, which is acquired from sensor
+tempreture.py:insert tempreture data into sqlite database with given interval of time, which is acquired from sensor
+humidity.py:insert humidity  datainto sqlite database with given interval of time, which is acquired from sensor
+upload.py:upload data from sqlite database on iot sense gateway after that it delete that data with given interval of time
+devicedata.json:file contains device id and interval and url to upload
+practice.db:is a sqlite database 

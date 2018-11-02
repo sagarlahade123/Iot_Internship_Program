@@ -1,0 +1,53 @@
+"""
+FILE_NAME:pressure.py
+TITLE:send pressure data to iot sense with fixed interval of time
+DEVLOPED_BY:SAGAR
+DATE_OF_CREATION:24/10/2018 10:00  AM
+DATE_OF_LAST_UPDATION:24/10/2018 12:28 PM
+PYTHON_VERSION:3.7.0
+"""
+from sense_hat import SenseHat
+import  datetime
+import sqlite3
+import  json
+import time
+import logging
+logging.basicConfig(filename="log.txt",level=logging.DEBUG,format='%(asctime)s\t%(levelname)s\t%(message)s')
+
+current_date=datetime.datetime.now()
+#reading pressure device id and pressure insert interval
+try:
+    with open("practice.json") as practjson:
+        jsondata=json.load(practjson)
+        device_id=jsondata["pressure_device_id"]
+        interval=jsondata["pressure_time_interval"]
+except:
+    logging.info("error wjile reading json file in pressure.py")
+    print("error wjile reading json file in pressure.py")
+#making connection and creating table
+try:
+    connection = sqlite3.connect("PracticeDb.db")
+    cursor1=connection.cursor()
+    sql_query="create table if not exists sensordata(id integer primary key autoincrement,sensor_name text,sensor_value real,humidity real,date text,deviceid text )"
+    cursor1.execute(sql_query)
+    connection.commit()
+except:
+    logging.info("error while creating table or making connection to sqlite")
+    print("error while creating table or making connection to sqlite")
+
+#inserting pressure data into sqlite table  with fixed interval
+while True:
+    try:
+        tuple_data=("pressure_sensor",450,"NA",current_date,device_id)
+        print(tuple_data)
+        insert_query="insert into sensordata(sensor_name,sensor_value,humidity,date,deviceid) values(?,?,?,?,?) "
+        cursor1.execute(insert_query,tuple_data)
+        connection.commit()
+        print("pressure data inserted")
+        logging.info("pressure data inserted")
+        time.sleep(interval)
+    except:
+        logging.error("error while inserting pressure data")
+        print("error while inserting pressure data")
+
+

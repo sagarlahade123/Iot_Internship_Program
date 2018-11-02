@@ -1,0 +1,10 @@
+{
+ "pressure_device_id":"5bcf0ada85223831aa164562",
+ "pressure_time_interval":5,
+ "tempreture_device_id":"5bcf0c8585223831aa164578",
+ "tempreture_time_interval":10,
+ "humidity_device_id":"5bd19b7185223831aa16d785",
+ "humidity_interval":8,
+ "url":"http://iotsense.centralindia.cloudapp.azure.com/api/dump"
+
+}

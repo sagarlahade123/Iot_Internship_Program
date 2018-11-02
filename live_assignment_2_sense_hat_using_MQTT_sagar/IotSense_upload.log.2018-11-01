@@ -1,0 +1,1770 @@
+2018-11-01 14:40:29,368	INFO	connection to sqlite completed
+2018-11-01 14:40:29,479	INFO	No data to upload
+2018-11-01 14:40:29,500	INFO	sqlite connection closed
+2018-11-01 14:40:59,526	INFO	connection to sqlite completed
+2018-11-01 14:40:59,770	INFO	No data to upload
+2018-11-01 14:40:59,792	INFO	sqlite connection closed
+2018-11-01 14:41:29,824	INFO	connection to sqlite completed
+2018-11-01 14:41:30,002	INFO	row id: 6924 data sent successfully to iot sense gateway
+2018-11-01 14:41:30,052	INFO	row id: 6924 data deleted successfully
+2018-11-01 14:41:30,053	INFO	sqlite connection clolsed
+2018-11-01 14:41:32,202	INFO	row id: 6925 data sent successfully to iot sense gateway
+2018-11-01 14:41:32,204	INFO	connection to sqlite completed
+2018-11-01 14:41:32,262	INFO	row id: 6925 data sent successfully to iot sense gateway
+2018-11-01 14:41:32,320	INFO	row id: 6925 data deleted successfully
+2018-11-01 14:41:32,322	INFO	sqlite connection clolsed
+2018-11-01 14:41:35,277	INFO	row id: 6926 data sent successfully to iot sense gateway
+2018-11-01 14:41:35,279	INFO	connection to sqlite completed
+2018-11-01 14:41:35,380	INFO	row id: 6926 data sent successfully to iot sense gateway
+2018-11-01 14:41:35,446	INFO	row id: 6926 data deleted successfully
+2018-11-01 14:41:35,447	INFO	sqlite connection clolsed
+2018-11-01 14:41:37,479	INFO	connection to sqlite completed
+2018-11-01 14:41:37,576	INFO	row id: 6927 data sent successfully to iot sense gateway
+2018-11-01 14:41:37,623	INFO	row id: 6927 data deleted successfully
+2018-11-01 14:41:37,624	INFO	sqlite connection clolsed
+2018-11-01 14:41:39,646	INFO	connection to sqlite completed
+2018-11-01 14:41:39,787	INFO	No data to upload
+2018-11-01 14:41:39,824	INFO	sqlite connection closed
+2018-11-01 14:42:00,366	INFO	connection to sqlite completed
+2018-11-01 14:42:00,839	INFO	row id: 6928 data sent successfully to iot sense gateway
+2018-11-01 14:42:00,902	INFO	row id: 6928 data deleted successfully
+2018-11-01 14:42:00,902	INFO	sqlite connection clolsed
+2018-11-01 14:42:03,018	INFO	row id: 6929 data sent successfully to iot sense gateway
+2018-11-01 14:42:03,020	INFO	connection to sqlite completed
+2018-11-01 14:42:03,088	INFO	row id: 6929 data sent successfully to iot sense gateway
+2018-11-01 14:42:03,154	INFO	row id: 6929 data deleted successfully
+2018-11-01 14:42:03,155	INFO	sqlite connection clolsed
+2018-11-01 14:42:05,191	INFO	connection to sqlite completed
+2018-11-01 14:42:05,390	INFO	No data to upload
+2018-11-01 14:42:05,436	INFO	sqlite connection closed
+2018-11-01 14:42:09,857	INFO	connection to sqlite completed
+2018-11-01 14:42:10,097	INFO	row id: 6930 data sent successfully to iot sense gateway
+2018-11-01 14:42:10,145	INFO	row id: 6930 data deleted successfully
+2018-11-01 14:42:10,146	INFO	sqlite connection clolsed
+2018-11-01 14:42:12,190	INFO	connection to sqlite completed
+2018-11-01 14:42:12,315	INFO	No data to upload
+2018-11-01 14:42:12,350	INFO	sqlite connection closed
+2018-11-01 14:42:35,466	INFO	connection to sqlite completed
+2018-11-01 14:42:35,634	INFO	row id: 6931 data sent successfully to iot sense gateway
+2018-11-01 14:42:35,701	INFO	row id: 6931 data deleted successfully
+2018-11-01 14:42:35,703	INFO	sqlite connection clolsed
+2018-11-01 14:42:37,781	INFO	row id: 6932 data sent successfully to iot sense gateway
+2018-11-01 14:42:37,782	INFO	connection to sqlite completed
+2018-11-01 14:42:37,837	INFO	row id: 6932 data sent successfully to iot sense gateway
+2018-11-01 14:42:37,915	INFO	row id: 6932 data deleted successfully
+2018-11-01 14:42:37,916	INFO	sqlite connection clolsed
+2018-11-01 14:42:39,938	INFO	connection to sqlite completed
+2018-11-01 14:42:40,090	INFO	row id: 6933 data sent successfully to iot sense gateway
+2018-11-01 14:42:40,145	INFO	row id: 6933 data deleted successfully
+2018-11-01 14:42:40,146	INFO	sqlite connection clolsed
+2018-11-01 14:42:42,179	INFO	connection to sqlite completed
+2018-11-01 14:42:42,306	INFO	No data to upload
+2018-11-01 14:42:42,343	INFO	sqlite connection closed
+2018-11-01 14:42:42,382	INFO	connection to sqlite completed
+2018-11-01 14:42:42,507	INFO	No data to upload
+2018-11-01 14:42:42,548	INFO	sqlite connection closed
+2018-11-01 14:43:12,577	INFO	connection to sqlite completed
+2018-11-01 14:43:13,212	INFO	mqtt send fail... so goes into sleep for 30 sec
+2018-11-01 14:43:13,213	INFO	sqlite connection clolsed
+2018-11-01 15:03:09,154	INFO	connection to sqlite completed
+2018-11-01 15:03:09,270	INFO	row id: 6934 data sent successfully to iot sense gateway
+2018-11-01 15:03:09,314	INFO	row id: 6934 data deleted successfully
+2018-11-01 15:03:09,315	INFO	sqlite connection clolsed
+2018-11-01 15:03:11,375	INFO	row id: 6935 data sent successfully to iot sense gateway
+2018-11-01 15:03:11,376	INFO	connection to sqlite completed
+2018-11-01 15:03:11,428	INFO	row id: 6935 data sent successfully to iot sense gateway
+2018-11-01 15:03:11,463	INFO	row id: 6935 data deleted successfully
+2018-11-01 15:03:11,464	INFO	sqlite connection clolsed
+2018-11-01 15:03:13,728	INFO	row id: 6936 data sent successfully to iot sense gateway
+2018-11-01 15:03:13,730	INFO	connection to sqlite completed
+2018-11-01 15:03:13,783	INFO	row id: 6936 data sent successfully to iot sense gateway
+2018-11-01 15:03:13,829	INFO	row id: 6936 data deleted successfully
+2018-11-01 15:03:13,831	INFO	sqlite connection clolsed
+2018-11-01 15:03:15,960	INFO	row id: 6937 data sent successfully to iot sense gateway
+2018-11-01 15:03:15,961	INFO	connection to sqlite completed
+2018-11-01 15:03:16,003	INFO	row id: 6937 data sent successfully to iot sense gateway
+2018-11-01 15:03:16,034	INFO	row id: 6937 data deleted successfully
+2018-11-01 15:03:16,035	INFO	sqlite connection clolsed
+2018-11-01 15:03:18,119	INFO	row id: 6938 data sent successfully to iot sense gateway
+2018-11-01 15:03:18,126	INFO	connection to sqlite completed
+2018-11-01 15:03:18,162	INFO	row id: 6938 data sent successfully to iot sense gateway
+2018-11-01 15:03:18,208	INFO	row id: 6938 data deleted successfully
+2018-11-01 15:03:18,209	INFO	sqlite connection clolsed
+2018-11-01 15:03:20,378	INFO	row id: 6939 data sent successfully to iot sense gateway
+2018-11-01 15:03:20,380	INFO	connection to sqlite completed
+2018-11-01 15:03:20,452	INFO	row id: 6939 data sent successfully to iot sense gateway
+2018-11-01 15:03:20,498	INFO	row id: 6939 data deleted successfully
+2018-11-01 15:03:20,499	INFO	sqlite connection clolsed
+2018-11-01 15:03:22,714	INFO	row id: 6940 data sent successfully to iot sense gateway
+2018-11-01 15:03:22,715	INFO	connection to sqlite completed
+2018-11-01 15:03:22,815	INFO	row id: 6940 data sent successfully to iot sense gateway
+2018-11-01 15:03:22,866	INFO	row id: 6940 data deleted successfully
+2018-11-01 15:03:22,867	INFO	sqlite connection clolsed
+2018-11-01 15:03:25,338	INFO	row id: 6941 data sent successfully to iot sense gateway
+2018-11-01 15:03:25,340	INFO	connection to sqlite completed
+2018-11-01 15:03:25,422	INFO	row id: 6941 data sent successfully to iot sense gateway
+2018-11-01 15:03:25,521	INFO	row id: 6941 data deleted successfully
+2018-11-01 15:03:25,521	INFO	sqlite connection clolsed
+2018-11-01 15:03:27,684	INFO	row id: 6942 data sent successfully to iot sense gateway
+2018-11-01 15:03:27,686	INFO	connection to sqlite completed
+2018-11-01 15:03:27,757	INFO	row id: 6942 data sent successfully to iot sense gateway
+2018-11-01 15:03:27,840	INFO	row id: 6942 data deleted successfully
+2018-11-01 15:03:27,841	INFO	sqlite connection clolsed
+2018-11-01 15:03:30,015	INFO	row id: 6943 data sent successfully to iot sense gateway
+2018-11-01 15:03:30,017	INFO	connection to sqlite completed
+2018-11-01 15:03:30,093	INFO	row id: 6943 data sent successfully to iot sense gateway
+2018-11-01 15:03:30,172	INFO	row id: 6943 data deleted successfully
+2018-11-01 15:03:30,173	INFO	sqlite connection clolsed
+2018-11-01 15:03:32,325	INFO	row id: 6944 data sent successfully to iot sense gateway
+2018-11-01 15:03:32,326	INFO	connection to sqlite completed
+2018-11-01 15:03:32,498	INFO	row id: 6944 data sent successfully to iot sense gateway
+2018-11-01 15:03:32,566	INFO	row id: 6944 data deleted successfully
+2018-11-01 15:03:32,567	INFO	sqlite connection clolsed
+2018-11-01 15:03:35,212	INFO	row id: 6945 data sent successfully to iot sense gateway
+2018-11-01 15:03:35,214	INFO	connection to sqlite completed
+2018-11-01 15:03:35,514	INFO	row id: 6945 data sent successfully to iot sense gateway
+2018-11-01 15:03:35,555	INFO	row id: 6945 data deleted successfully
+2018-11-01 15:03:35,555	INFO	sqlite connection clolsed
+2018-11-01 15:03:37,698	INFO	row id: 6946 data sent successfully to iot sense gateway
+2018-11-01 15:03:37,699	INFO	connection to sqlite completed
+2018-11-01 15:03:38,068	INFO	row id: 6946 data sent successfully to iot sense gateway
+2018-11-01 15:03:38,133	INFO	row id: 6946 data deleted successfully
+2018-11-01 15:03:38,134	INFO	sqlite connection clolsed
+2018-11-01 15:03:40,257	INFO	row id: 6947 data sent successfully to iot sense gateway
+2018-11-01 15:03:40,258	INFO	connection to sqlite completed
+2018-11-01 15:03:40,307	INFO	row id: 6947 data sent successfully to iot sense gateway
+2018-11-01 15:03:40,344	INFO	row id: 6947 data deleted successfully
+2018-11-01 15:03:40,345	INFO	sqlite connection clolsed
+2018-11-01 15:03:42,653	INFO	row id: 6948 data sent successfully to iot sense gateway
+2018-11-01 15:03:42,654	INFO	connection to sqlite completed
+2018-11-01 15:03:42,735	INFO	row id: 6948 data sent successfully to iot sense gateway
+2018-11-01 15:03:42,882	INFO	row id: 6948 data deleted successfully
+2018-11-01 15:03:42,883	INFO	sqlite connection clolsed
+2018-11-01 15:03:45,041	INFO	row id: 6949 data sent successfully to iot sense gateway
+2018-11-01 15:03:45,042	INFO	connection to sqlite completed
+2018-11-01 15:03:45,130	INFO	row id: 6949 data sent successfully to iot sense gateway
+2018-11-01 15:03:45,201	INFO	row id: 6949 data deleted successfully
+2018-11-01 15:03:45,203	INFO	sqlite connection clolsed
+2018-11-01 15:03:47,991	INFO	row id: 6950 data sent successfully to iot sense gateway
+2018-11-01 15:03:47,992	INFO	connection to sqlite completed
+2018-11-01 15:03:48,074	INFO	row id: 6950 data sent successfully to iot sense gateway
+2018-11-01 15:03:48,642	INFO	row id: 6950 data deleted successfully
+2018-11-01 15:03:48,643	INFO	sqlite connection clolsed
+2018-11-01 16:22:35,989	INFO	connection to sqlite completed
+2018-11-01 16:22:41,215	INFO	row id: 6951 data sent successfully to iot sense gateway
+2018-11-01 16:22:41,262	INFO	row id: 6951 data deleted successfully
+2018-11-01 16:22:41,264	INFO	sqlite connection clolsed
+2018-11-01 16:22:43,424	INFO	row id: 6952 data sent successfully to iot sense gateway
+2018-11-01 16:22:43,426	INFO	connection to sqlite completed
+2018-11-01 16:22:43,964	INFO	row id: 6952 data sent successfully to iot sense gateway
+2018-11-01 16:22:43,998	INFO	row id: 6952 data deleted successfully
+2018-11-01 16:22:43,999	INFO	sqlite connection clolsed
+2018-11-01 16:22:46,103	INFO	row id: 6953 data sent successfully to iot sense gateway
+2018-11-01 16:22:46,104	INFO	connection to sqlite completed
+2018-11-01 16:22:46,160	INFO	row id: 6953 data sent successfully to iot sense gateway
+2018-11-01 16:22:46,187	INFO	row id: 6953 data deleted successfully
+2018-11-01 16:22:46,188	INFO	sqlite connection clolsed
+2018-11-01 16:22:48,282	INFO	row id: 6954 data sent successfully to iot sense gateway
+2018-11-01 16:22:48,284	INFO	connection to sqlite completed
+2018-11-01 16:22:48,353	INFO	row id: 6954 data sent successfully to iot sense gateway
+2018-11-01 16:22:48,388	INFO	row id: 6954 data deleted successfully
+2018-11-01 16:22:48,389	INFO	sqlite connection clolsed
+2018-11-01 16:22:50,488	INFO	row id: 6955 data sent successfully to iot sense gateway
+2018-11-01 16:22:50,490	INFO	connection to sqlite completed
+2018-11-01 16:22:50,551	INFO	row id: 6955 data sent successfully to iot sense gateway
+2018-11-01 16:22:50,592	INFO	row id: 6955 data deleted successfully
+2018-11-01 16:22:50,594	INFO	sqlite connection clolsed
+2018-11-01 16:22:52,818	INFO	row id: 6956 data sent successfully to iot sense gateway
+2018-11-01 16:22:52,819	INFO	connection to sqlite completed
+2018-11-01 16:22:52,895	INFO	row id: 6956 data sent successfully to iot sense gateway
+2018-11-01 16:22:52,940	INFO	row id: 6956 data deleted successfully
+2018-11-01 16:22:52,942	INFO	sqlite connection clolsed
+2018-11-01 16:22:55,074	INFO	row id: 6957 data sent successfully to iot sense gateway
+2018-11-01 16:22:55,076	INFO	connection to sqlite completed
+2018-11-01 16:22:55,164	INFO	row id: 6957 data sent successfully to iot sense gateway
+2018-11-01 16:22:55,214	INFO	row id: 6957 data deleted successfully
+2018-11-01 16:22:55,218	INFO	sqlite connection clolsed
+2018-11-01 16:22:57,354	INFO	row id: 6958 data sent successfully to iot sense gateway
+2018-11-01 16:22:57,355	INFO	connection to sqlite completed
+2018-11-01 16:22:57,425	INFO	row id: 6958 data sent successfully to iot sense gateway
+2018-11-01 16:22:57,455	INFO	row id: 6958 data deleted successfully
+2018-11-01 16:22:57,456	INFO	sqlite connection clolsed
+2018-11-01 16:22:59,582	INFO	row id: 6959 data sent successfully to iot sense gateway
+2018-11-01 16:22:59,583	INFO	connection to sqlite completed
+2018-11-01 16:22:59,651	INFO	row id: 6959 data sent successfully to iot sense gateway
+2018-11-01 16:22:59,682	INFO	row id: 6959 data deleted successfully
+2018-11-01 16:22:59,682	INFO	sqlite connection clolsed
+2018-11-01 16:23:01,811	INFO	row id: 6960 data sent successfully to iot sense gateway
+2018-11-01 16:23:01,812	INFO	connection to sqlite completed
+2018-11-01 16:23:01,897	INFO	row id: 6960 data sent successfully to iot sense gateway
+2018-11-01 16:23:01,941	INFO	row id: 6960 data deleted successfully
+2018-11-01 16:23:01,942	INFO	sqlite connection clolsed
+2018-11-01 16:23:04,157	INFO	row id: 6961 data sent successfully to iot sense gateway
+2018-11-01 16:23:04,159	INFO	connection to sqlite completed
+2018-11-01 16:23:04,315	INFO	row id: 6961 data sent successfully to iot sense gateway
+2018-11-01 16:23:04,356	INFO	row id: 6961 data deleted successfully
+2018-11-01 16:23:04,358	INFO	sqlite connection clolsed
+2018-11-01 16:23:06,488	INFO	row id: 6962 data sent successfully to iot sense gateway
+2018-11-01 16:23:06,489	INFO	connection to sqlite completed
+2018-11-01 16:23:06,570	INFO	row id: 6962 data sent successfully to iot sense gateway
+2018-11-01 16:23:06,604	INFO	row id: 6962 data deleted successfully
+2018-11-01 16:23:06,606	INFO	sqlite connection clolsed
+2018-11-01 16:23:08,789	INFO	row id: 6963 data sent successfully to iot sense gateway
+2018-11-01 16:23:08,791	INFO	connection to sqlite completed
+2018-11-01 16:23:08,871	INFO	row id: 6963 data sent successfully to iot sense gateway
+2018-11-01 16:23:08,923	INFO	row id: 6963 data deleted successfully
+2018-11-01 16:23:08,924	INFO	sqlite connection clolsed
+2018-11-01 16:23:11,132	INFO	row id: 6964 data sent successfully to iot sense gateway
+2018-11-01 16:23:11,133	INFO	connection to sqlite completed
+2018-11-01 16:23:11,282	INFO	row id: 6964 data sent successfully to iot sense gateway
+2018-11-01 16:23:11,324	INFO	row id: 6964 data deleted successfully
+2018-11-01 16:23:11,325	INFO	sqlite connection clolsed
+2018-11-01 16:23:13,465	INFO	row id: 6965 data sent successfully to iot sense gateway
+2018-11-01 16:23:13,466	INFO	connection to sqlite completed
+2018-11-01 16:23:13,530	INFO	row id: 6965 data sent successfully to iot sense gateway
+2018-11-01 16:23:13,560	INFO	row id: 6965 data deleted successfully
+2018-11-01 16:23:13,560	INFO	sqlite connection clolsed
+2018-11-01 16:23:15,675	INFO	row id: 6966 data sent successfully to iot sense gateway
+2018-11-01 16:23:15,676	INFO	connection to sqlite completed
+2018-11-01 16:23:15,763	INFO	row id: 6966 data sent successfully to iot sense gateway
+2018-11-01 16:23:15,811	INFO	row id: 6966 data deleted successfully
+2018-11-01 16:23:15,813	INFO	sqlite connection clolsed
+2018-11-01 16:23:17,938	INFO	row id: 6967 data sent successfully to iot sense gateway
+2018-11-01 16:23:17,939	INFO	connection to sqlite completed
+2018-11-01 16:23:18,016	INFO	row id: 6967 data sent successfully to iot sense gateway
+2018-11-01 16:23:18,070	INFO	row id: 6967 data deleted successfully
+2018-11-01 16:23:18,072	INFO	sqlite connection clolsed
+2018-11-01 16:23:25,348	INFO	row id: 6968 data sent successfully to iot sense gateway
+2018-11-01 16:23:25,350	INFO	connection to sqlite completed
+2018-11-01 16:23:25,728	INFO	row id: 6968 data sent successfully to iot sense gateway
+2018-11-01 16:23:25,759	INFO	row id: 6968 data deleted successfully
+2018-11-01 16:23:25,760	INFO	sqlite connection clolsed
+2018-11-01 16:23:27,877	INFO	row id: 6969 data sent successfully to iot sense gateway
+2018-11-01 16:23:27,878	INFO	connection to sqlite completed
+2018-11-01 16:23:27,948	INFO	row id: 6969 data sent successfully to iot sense gateway
+2018-11-01 16:23:27,978	INFO	row id: 6969 data deleted successfully
+2018-11-01 16:23:27,978	INFO	sqlite connection clolsed
+2018-11-01 16:23:30,098	INFO	row id: 6970 data sent successfully to iot sense gateway
+2018-11-01 16:23:30,100	INFO	connection to sqlite completed
+2018-11-01 16:23:30,175	INFO	row id: 6970 data sent successfully to iot sense gateway
+2018-11-01 16:23:30,220	INFO	row id: 6970 data deleted successfully
+2018-11-01 16:23:30,222	INFO	sqlite connection clolsed
+2018-11-01 16:23:32,356	INFO	row id: 6971 data sent successfully to iot sense gateway
+2018-11-01 16:23:32,357	INFO	connection to sqlite completed
+2018-11-01 16:23:32,460	INFO	row id: 6971 data sent successfully to iot sense gateway
+2018-11-01 16:23:32,510	INFO	row id: 6971 data deleted successfully
+2018-11-01 16:23:32,511	INFO	sqlite connection clolsed
+2018-11-01 16:23:34,644	INFO	row id: 6972 data sent successfully to iot sense gateway
+2018-11-01 16:23:34,645	INFO	connection to sqlite completed
+2018-11-01 16:23:34,719	INFO	row id: 6972 data sent successfully to iot sense gateway
+2018-11-01 16:23:34,762	INFO	row id: 6972 data deleted successfully
+2018-11-01 16:23:34,764	INFO	sqlite connection clolsed
+2018-11-01 16:23:37,076	INFO	row id: 6973 data sent successfully to iot sense gateway
+2018-11-01 16:23:37,078	INFO	connection to sqlite completed
+2018-11-01 16:23:37,153	INFO	row id: 6973 data sent successfully to iot sense gateway
+2018-11-01 16:23:37,198	INFO	row id: 6973 data deleted successfully
+2018-11-01 16:23:37,199	INFO	sqlite connection clolsed
+2018-11-01 16:23:39,334	INFO	row id: 6974 data sent successfully to iot sense gateway
+2018-11-01 16:23:39,336	INFO	connection to sqlite completed
+2018-11-01 16:23:39,413	INFO	row id: 6974 data sent successfully to iot sense gateway
+2018-11-01 16:23:39,461	INFO	row id: 6974 data deleted successfully
+2018-11-01 16:23:39,462	INFO	sqlite connection clolsed
+2018-11-01 16:23:41,601	INFO	row id: 6975 data sent successfully to iot sense gateway
+2018-11-01 16:23:41,603	INFO	connection to sqlite completed
+2018-11-01 16:23:41,674	INFO	row id: 6975 data sent successfully to iot sense gateway
+2018-11-01 16:23:41,719	INFO	row id: 6975 data deleted successfully
+2018-11-01 16:23:41,721	INFO	sqlite connection clolsed
+2018-11-01 16:23:43,863	INFO	row id: 6976 data sent successfully to iot sense gateway
+2018-11-01 16:23:43,865	INFO	connection to sqlite completed
+2018-11-01 16:23:43,941	INFO	row id: 6976 data sent successfully to iot sense gateway
+2018-11-01 16:23:43,989	INFO	row id: 6976 data deleted successfully
+2018-11-01 16:23:43,991	INFO	sqlite connection clolsed
+2018-11-01 16:23:46,130	INFO	row id: 6977 data sent successfully to iot sense gateway
+2018-11-01 16:23:46,131	INFO	connection to sqlite completed
+2018-11-01 16:23:46,278	INFO	row id: 6977 data sent successfully to iot sense gateway
+2018-11-01 16:23:46,320	INFO	row id: 6977 data deleted successfully
+2018-11-01 16:23:46,321	INFO	sqlite connection clolsed
+2018-11-01 16:23:48,613	INFO	row id: 6978 data sent successfully to iot sense gateway
+2018-11-01 16:23:48,615	INFO	connection to sqlite completed
+2018-11-01 16:23:48,694	INFO	row id: 6978 data sent successfully to iot sense gateway
+2018-11-01 16:23:48,726	INFO	row id: 6978 data deleted successfully
+2018-11-01 16:23:48,727	INFO	sqlite connection clolsed
+2018-11-01 16:23:50,855	INFO	row id: 6979 data sent successfully to iot sense gateway
+2018-11-01 16:23:50,857	INFO	connection to sqlite completed
+2018-11-01 16:23:50,943	INFO	row id: 6979 data sent successfully to iot sense gateway
+2018-11-01 16:23:50,991	INFO	row id: 6979 data deleted successfully
+2018-11-01 16:23:50,993	INFO	sqlite connection clolsed
+2018-11-01 16:23:53,207	INFO	row id: 6980 data sent successfully to iot sense gateway
+2018-11-01 16:23:53,209	INFO	connection to sqlite completed
+2018-11-01 16:23:53,291	INFO	row id: 6980 data sent successfully to iot sense gateway
+2018-11-01 16:23:53,346	INFO	row id: 6980 data deleted successfully
+2018-11-01 16:23:53,348	INFO	sqlite connection clolsed
+2018-11-01 16:23:55,477	INFO	row id: 6981 data sent successfully to iot sense gateway
+2018-11-01 16:23:55,478	INFO	connection to sqlite completed
+2018-11-01 16:23:55,557	INFO	row id: 6981 data sent successfully to iot sense gateway
+2018-11-01 16:23:55,600	INFO	row id: 6981 data deleted successfully
+2018-11-01 16:23:55,601	INFO	sqlite connection clolsed
+2018-11-01 16:23:57,825	INFO	row id: 6982 data sent successfully to iot sense gateway
+2018-11-01 16:23:57,827	INFO	connection to sqlite completed
+2018-11-01 16:23:57,906	INFO	row id: 6982 data sent successfully to iot sense gateway
+2018-11-01 16:23:57,969	INFO	row id: 6982 data deleted successfully
+2018-11-01 16:23:57,970	INFO	sqlite connection clolsed
+2018-11-01 16:24:00,094	INFO	row id: 6983 data sent successfully to iot sense gateway
+2018-11-01 16:24:00,096	INFO	connection to sqlite completed
+2018-11-01 16:24:00,190	INFO	row id: 6983 data sent successfully to iot sense gateway
+2018-11-01 16:24:00,243	INFO	row id: 6983 data deleted successfully
+2018-11-01 16:24:00,244	INFO	sqlite connection clolsed
+2018-11-01 16:24:02,395	INFO	row id: 6984 data sent successfully to iot sense gateway
+2018-11-01 16:24:02,396	INFO	connection to sqlite completed
+2018-11-01 16:24:02,451	INFO	row id: 6984 data sent successfully to iot sense gateway
+2018-11-01 16:24:02,481	INFO	row id: 6984 data deleted successfully
+2018-11-01 16:24:02,482	INFO	sqlite connection clolsed
+2018-11-01 16:24:04,664	INFO	row id: 6985 data sent successfully to iot sense gateway
+2018-11-01 16:24:04,666	INFO	connection to sqlite completed
+2018-11-01 16:24:04,754	INFO	row id: 6985 data sent successfully to iot sense gateway
+2018-11-01 16:24:04,812	INFO	row id: 6985 data deleted successfully
+2018-11-01 16:24:04,813	INFO	sqlite connection clolsed
+2018-11-01 16:24:06,995	INFO	row id: 6986 data sent successfully to iot sense gateway
+2018-11-01 16:24:06,997	INFO	connection to sqlite completed
+2018-11-01 16:24:07,076	INFO	row id: 6986 data sent successfully to iot sense gateway
+2018-11-01 16:24:07,131	INFO	row id: 6986 data deleted successfully
+2018-11-01 16:24:07,133	INFO	sqlite connection clolsed
+2018-11-01 16:24:09,423	INFO	row id: 6987 data sent successfully to iot sense gateway
+2018-11-01 16:24:09,424	INFO	connection to sqlite completed
+2018-11-01 16:24:09,575	INFO	row id: 6987 data sent successfully to iot sense gateway
+2018-11-01 16:24:09,605	INFO	row id: 6987 data deleted successfully
+2018-11-01 16:24:09,606	INFO	sqlite connection clolsed
+2018-11-01 16:24:11,730	INFO	row id: 6988 data sent successfully to iot sense gateway
+2018-11-01 16:24:11,731	INFO	connection to sqlite completed
+2018-11-01 16:24:11,824	INFO	row id: 6988 data sent successfully to iot sense gateway
+2018-11-01 16:24:11,872	INFO	row id: 6988 data deleted successfully
+2018-11-01 16:24:11,873	INFO	sqlite connection clolsed
+2018-11-01 16:24:13,996	INFO	row id: 6989 data sent successfully to iot sense gateway
+2018-11-01 16:24:13,997	INFO	connection to sqlite completed
+2018-11-01 16:24:14,056	INFO	row id: 6989 data sent successfully to iot sense gateway
+2018-11-01 16:24:14,083	INFO	row id: 6989 data deleted successfully
+2018-11-01 16:24:14,084	INFO	sqlite connection clolsed
+2018-11-01 16:24:16,172	INFO	row id: 6990 data sent successfully to iot sense gateway
+2018-11-01 16:24:16,173	INFO	connection to sqlite completed
+2018-11-01 16:24:16,231	INFO	row id: 6990 data sent successfully to iot sense gateway
+2018-11-01 16:24:16,262	INFO	row id: 6990 data deleted successfully
+2018-11-01 16:24:16,263	INFO	sqlite connection clolsed
+2018-11-01 16:24:18,481	INFO	row id: 6991 data sent successfully to iot sense gateway
+2018-11-01 16:24:18,482	INFO	connection to sqlite completed
+2018-11-01 16:24:18,555	INFO	row id: 6991 data sent successfully to iot sense gateway
+2018-11-01 16:24:18,586	INFO	row id: 6991 data deleted successfully
+2018-11-01 16:24:18,587	INFO	sqlite connection clolsed
+2018-11-01 16:24:20,713	INFO	row id: 6992 data sent successfully to iot sense gateway
+2018-11-01 16:24:20,714	INFO	connection to sqlite completed
+2018-11-01 16:24:20,788	INFO	row id: 6992 data sent successfully to iot sense gateway
+2018-11-01 16:24:20,846	INFO	row id: 6992 data deleted successfully
+2018-11-01 16:24:20,847	INFO	sqlite connection clolsed
+2018-11-01 16:24:22,976	INFO	row id: 6993 data sent successfully to iot sense gateway
+2018-11-01 16:24:22,977	INFO	connection to sqlite completed
+2018-11-01 16:24:23,060	INFO	row id: 6993 data sent successfully to iot sense gateway
+2018-11-01 16:24:23,121	INFO	row id: 6993 data deleted successfully
+2018-11-01 16:24:23,122	INFO	sqlite connection clolsed
+2018-11-01 16:24:25,269	INFO	row id: 6994 data sent successfully to iot sense gateway
+2018-11-01 16:24:25,271	INFO	connection to sqlite completed
+2018-11-01 16:24:25,356	INFO	row id: 6994 data sent successfully to iot sense gateway
+2018-11-01 16:24:25,413	INFO	row id: 6994 data deleted successfully
+2018-11-01 16:24:25,415	INFO	sqlite connection clolsed
+2018-11-01 16:24:27,541	INFO	row id: 6995 data sent successfully to iot sense gateway
+2018-11-01 16:24:27,542	INFO	connection to sqlite completed
+2018-11-01 16:24:27,619	INFO	row id: 6995 data sent successfully to iot sense gateway
+2018-11-01 16:24:27,668	INFO	row id: 6995 data deleted successfully
+2018-11-01 16:24:27,670	INFO	sqlite connection clolsed
+2018-11-01 16:24:29,883	INFO	row id: 6996 data sent successfully to iot sense gateway
+2018-11-01 16:24:29,885	INFO	connection to sqlite completed
+2018-11-01 16:24:29,981	INFO	row id: 6996 data sent successfully to iot sense gateway
+2018-11-01 16:24:30,036	INFO	row id: 6996 data deleted successfully
+2018-11-01 16:24:30,036	INFO	sqlite connection clolsed
+2018-11-01 16:24:32,155	INFO	row id: 6997 data sent successfully to iot sense gateway
+2018-11-01 16:24:32,157	INFO	connection to sqlite completed
+2018-11-01 16:24:32,235	INFO	row id: 6997 data sent successfully to iot sense gateway
+2018-11-01 16:24:32,281	INFO	row id: 6997 data deleted successfully
+2018-11-01 16:24:32,283	INFO	sqlite connection clolsed
+2018-11-01 16:24:34,411	INFO	row id: 6998 data sent successfully to iot sense gateway
+2018-11-01 16:24:34,413	INFO	connection to sqlite completed
+2018-11-01 16:24:34,495	INFO	row id: 6998 data sent successfully to iot sense gateway
+2018-11-01 16:24:34,550	INFO	row id: 6998 data deleted successfully
+2018-11-01 16:24:34,552	INFO	sqlite connection clolsed
+2018-11-01 16:24:36,681	INFO	row id: 6999 data sent successfully to iot sense gateway
+2018-11-01 16:24:36,683	INFO	connection to sqlite completed
+2018-11-01 16:24:36,762	INFO	row id: 6999 data sent successfully to iot sense gateway
+2018-11-01 16:24:36,807	INFO	row id: 6999 data deleted successfully
+2018-11-01 16:24:36,809	INFO	sqlite connection clolsed
+2018-11-01 16:24:39,025	INFO	row id: 7000 data sent successfully to iot sense gateway
+2018-11-01 16:24:39,027	INFO	connection to sqlite completed
+2018-11-01 16:24:39,112	INFO	row id: 7000 data sent successfully to iot sense gateway
+2018-11-01 16:24:39,171	INFO	row id: 7000 data deleted successfully
+2018-11-01 16:24:39,173	INFO	sqlite connection clolsed
+2018-11-01 16:24:41,400	INFO	row id: 7001 data sent successfully to iot sense gateway
+2018-11-01 16:24:41,402	INFO	connection to sqlite completed
+2018-11-01 16:24:41,479	INFO	row id: 7001 data sent successfully to iot sense gateway
+2018-11-01 16:24:41,512	INFO	row id: 7001 data deleted successfully
+2018-11-01 16:24:41,513	INFO	sqlite connection clolsed
+2018-11-01 16:24:43,703	INFO	row id: 7002 data sent successfully to iot sense gateway
+2018-11-01 16:24:43,705	INFO	connection to sqlite completed
+2018-11-01 16:24:43,797	INFO	row id: 7002 data sent successfully to iot sense gateway
+2018-11-01 16:24:43,857	INFO	row id: 7002 data deleted successfully
+2018-11-01 16:24:43,858	INFO	sqlite connection clolsed
+2018-11-01 16:24:45,951	ERROR	exception genrated
+2018-11-01 16:24:46,002	INFO	connection to sqlite completed
+2018-11-01 16:24:46,104	INFO	row id: 7003 data sent successfully to iot sense gateway
+2018-11-01 16:24:46,133	INFO	row id: 7003 data deleted successfully
+2018-11-01 16:24:46,134	INFO	sqlite connection clolsed
+2018-11-01 16:24:48,195	ERROR	exception genrated while data sending towards iotsense gateway:
+2018-11-01 16:36:46,198	INFO	connection to sqlite completed
+2018-11-01 16:36:46,501	INFO	row id: 7004 data sent successfully to iot sense gateway
+2018-11-01 16:36:46,584	INFO	row id: 7004 data deleted successfully
+2018-11-01 16:36:46,585	INFO	sqlite connection clolsed
+2018-11-01 16:36:48,738	INFO	row id: 7005 data sent successfully to iot sense gateway
+2018-11-01 16:36:48,739	INFO	connection to sqlite completed
+2018-11-01 16:36:48,932	INFO	row id: 7005 data sent successfully to iot sense gateway
+2018-11-01 16:36:48,997	INFO	row id: 7005 data deleted successfully
+2018-11-01 16:36:48,998	INFO	sqlite connection clolsed
+2018-11-01 16:36:51,177	INFO	row id: 7006 data sent successfully to iot sense gateway
+2018-11-01 16:36:51,179	INFO	connection to sqlite completed
+2018-11-01 16:36:51,340	INFO	row id: 7006 data sent successfully to iot sense gateway
+2018-11-01 16:36:51,381	INFO	row id: 7006 data deleted successfully
+2018-11-01 16:36:51,382	INFO	sqlite connection clolsed
+2018-11-01 16:36:58,708	INFO	row id: 7007 data sent successfully to iot sense gateway
+2018-11-01 16:36:58,711	INFO	connection to sqlite completed
+2018-11-01 16:36:58,827	INFO	row id: 7007 data sent successfully to iot sense gateway
+2018-11-01 16:36:58,860	INFO	row id: 7007 data deleted successfully
+2018-11-01 16:36:58,861	INFO	sqlite connection clolsed
+2018-11-01 16:37:00,981	INFO	row id: 7008 data sent successfully to iot sense gateway
+2018-11-01 16:37:00,983	INFO	connection to sqlite completed
+2018-11-01 16:37:01,067	INFO	row id: 7008 data sent successfully to iot sense gateway
+2018-11-01 16:37:01,280	INFO	row id: 7008 data deleted successfully
+2018-11-01 16:37:01,281	INFO	sqlite connection clolsed
+2018-11-01 16:37:03,421	INFO	row id: 7009 data sent successfully to iot sense gateway
+2018-11-01 16:37:03,423	INFO	connection to sqlite completed
+2018-11-01 16:37:03,508	INFO	row id: 7009 data sent successfully to iot sense gateway
+2018-11-01 16:37:03,579	INFO	row id: 7009 data deleted successfully
+2018-11-01 16:37:03,580	INFO	sqlite connection clolsed
+2018-11-01 16:37:05,790	INFO	row id: 7010 data sent successfully to iot sense gateway
+2018-11-01 16:37:05,792	INFO	connection to sqlite completed
+2018-11-01 16:37:05,934	INFO	row id: 7010 data sent successfully to iot sense gateway
+2018-11-01 16:37:05,994	INFO	row id: 7010 data deleted successfully
+2018-11-01 16:37:05,995	INFO	sqlite connection clolsed
+2018-11-01 16:37:08,163	INFO	row id: 7011 data sent successfully to iot sense gateway
+2018-11-01 16:37:08,165	INFO	connection to sqlite completed
+2018-11-01 16:37:08,262	INFO	row id: 7011 data sent successfully to iot sense gateway
+2018-11-01 16:37:08,327	INFO	row id: 7011 data deleted successfully
+2018-11-01 16:37:08,327	INFO	sqlite connection clolsed
+2018-11-01 16:37:10,615	INFO	row id: 7012 data sent successfully to iot sense gateway
+2018-11-01 16:37:10,617	INFO	connection to sqlite completed
+2018-11-01 16:37:10,734	INFO	row id: 7012 data sent successfully to iot sense gateway
+2018-11-01 16:37:10,870	INFO	row id: 7012 data deleted successfully
+2018-11-01 16:37:10,871	INFO	sqlite connection clolsed
+2018-11-01 16:37:13,032	INFO	row id: 7013 data sent successfully to iot sense gateway
+2018-11-01 16:37:13,033	INFO	connection to sqlite completed
+2018-11-01 16:37:13,103	INFO	row id: 7013 data sent successfully to iot sense gateway
+2018-11-01 16:37:13,158	INFO	row id: 7013 data deleted successfully
+2018-11-01 16:37:13,159	INFO	sqlite connection clolsed
+2018-11-01 16:37:15,365	INFO	row id: 7014 data sent successfully to iot sense gateway
+2018-11-01 16:37:15,366	INFO	connection to sqlite completed
+2018-11-01 16:37:15,462	INFO	row id: 7014 data sent successfully to iot sense gateway
+2018-11-01 16:37:15,567	INFO	row id: 7014 data deleted successfully
+2018-11-01 16:37:15,568	INFO	sqlite connection clolsed
+2018-11-01 16:37:17,846	INFO	row id: 7015 data sent successfully to iot sense gateway
+2018-11-01 16:37:17,848	INFO	connection to sqlite completed
+2018-11-01 16:37:18,018	INFO	row id: 7015 data sent successfully to iot sense gateway
+2018-11-01 16:37:18,107	INFO	row id: 7015 data deleted successfully
+2018-11-01 16:37:18,108	INFO	sqlite connection clolsed
+2018-11-01 16:37:20,454	INFO	row id: 7016 data sent successfully to iot sense gateway
+2018-11-01 16:37:20,455	INFO	connection to sqlite completed
+2018-11-01 16:37:20,564	INFO	row id: 7016 data sent successfully to iot sense gateway
+2018-11-01 16:37:20,629	INFO	row id: 7016 data deleted successfully
+2018-11-01 16:37:20,630	INFO	sqlite connection clolsed
+2018-11-01 16:37:22,867	INFO	row id: 7017 data sent successfully to iot sense gateway
+2018-11-01 16:37:22,871	INFO	connection to sqlite completed
+2018-11-01 16:37:22,991	INFO	row id: 7017 data sent successfully to iot sense gateway
+2018-11-01 16:37:23,047	INFO	row id: 7017 data deleted successfully
+2018-11-01 16:37:23,048	INFO	sqlite connection clolsed
+2018-11-01 16:37:25,514	INFO	row id: 7018 data sent successfully to iot sense gateway
+2018-11-01 16:37:25,516	INFO	connection to sqlite completed
+2018-11-01 16:37:25,618	INFO	row id: 7018 data sent successfully to iot sense gateway
+2018-11-01 16:37:25,658	INFO	row id: 7018 data deleted successfully
+2018-11-01 16:37:25,658	INFO	sqlite connection clolsed
+2018-11-01 16:37:27,991	INFO	row id: 7019 data sent successfully to iot sense gateway
+2018-11-01 16:37:27,992	INFO	connection to sqlite completed
+2018-11-01 16:37:28,146	INFO	row id: 7019 data sent successfully to iot sense gateway
+2018-11-01 16:37:28,217	INFO	row id: 7019 data deleted successfully
+2018-11-01 16:37:28,218	INFO	sqlite connection clolsed
+2018-11-01 16:37:30,543	INFO	row id: 7020 data sent successfully to iot sense gateway
+2018-11-01 16:37:30,544	INFO	connection to sqlite completed
+2018-11-01 16:37:30,712	INFO	row id: 7020 data sent successfully to iot sense gateway
+2018-11-01 16:37:30,841	INFO	row id: 7020 data deleted successfully
+2018-11-01 16:37:30,842	INFO	sqlite connection clolsed
+2018-11-01 16:37:33,343	INFO	row id: 7021 data sent successfully to iot sense gateway
+2018-11-01 16:37:33,344	INFO	connection to sqlite completed
+2018-11-01 16:37:33,437	INFO	row id: 7021 data sent successfully to iot sense gateway
+2018-11-01 16:37:33,557	INFO	row id: 7021 data deleted successfully
+2018-11-01 16:37:33,558	INFO	sqlite connection clolsed
+2018-11-01 16:37:35,939	INFO	row id: 7022 data sent successfully to iot sense gateway
+2018-11-01 16:37:35,940	INFO	connection to sqlite completed
+2018-11-01 16:37:36,044	INFO	row id: 7022 data sent successfully to iot sense gateway
+2018-11-01 16:37:36,093	INFO	row id: 7022 data deleted successfully
+2018-11-01 16:37:36,094	INFO	sqlite connection clolsed
+2018-11-01 16:37:38,232	INFO	row id: 7023 data sent successfully to iot sense gateway
+2018-11-01 16:37:38,233	INFO	connection to sqlite completed
+2018-11-01 16:37:38,321	INFO	row id: 7023 data sent successfully to iot sense gateway
+2018-11-01 16:37:38,428	INFO	row id: 7023 data deleted successfully
+2018-11-01 16:37:38,429	INFO	sqlite connection clolsed
+2018-11-01 16:37:40,787	INFO	row id: 7024 data sent successfully to iot sense gateway
+2018-11-01 16:37:40,789	INFO	connection to sqlite completed
+2018-11-01 16:37:40,973	INFO	row id: 7024 data sent successfully to iot sense gateway
+2018-11-01 16:37:41,074	INFO	row id: 7024 data deleted successfully
+2018-11-01 16:37:41,075	INFO	sqlite connection clolsed
+2018-11-01 16:37:43,458	INFO	row id: 7025 data sent successfully to iot sense gateway
+2018-11-01 16:37:43,459	INFO	connection to sqlite completed
+2018-11-01 16:37:43,559	INFO	row id: 7025 data sent successfully to iot sense gateway
+2018-11-01 16:37:43,629	INFO	row id: 7025 data deleted successfully
+2018-11-01 16:37:43,629	INFO	sqlite connection clolsed
+2018-11-01 16:37:45,810	INFO	row id: 7026 data sent successfully to iot sense gateway
+2018-11-01 16:37:45,811	INFO	connection to sqlite completed
+2018-11-01 16:37:45,908	INFO	row id: 7026 data sent successfully to iot sense gateway
+2018-11-01 16:37:45,985	INFO	row id: 7026 data deleted successfully
+2018-11-01 16:37:45,985	INFO	sqlite connection clolsed
+2018-11-01 16:37:48,249	INFO	row id: 7027 data sent successfully to iot sense gateway
+2018-11-01 16:37:48,251	INFO	connection to sqlite completed
+2018-11-01 16:37:48,357	INFO	row id: 7027 data sent successfully to iot sense gateway
+2018-11-01 16:37:48,596	INFO	row id: 7027 data deleted successfully
+2018-11-01 16:37:48,597	INFO	sqlite connection clolsed
+2018-11-01 16:37:51,369	INFO	row id: 7028 data sent successfully to iot sense gateway
+2018-11-01 16:37:51,371	INFO	connection to sqlite completed
+2018-11-01 16:37:51,502	INFO	row id: 7028 data sent successfully to iot sense gateway
+2018-11-01 16:37:51,651	INFO	row id: 7028 data deleted successfully
+2018-11-01 16:37:51,652	INFO	sqlite connection clolsed
+2018-11-01 16:37:53,954	INFO	row id: 7029 data sent successfully to iot sense gateway
+2018-11-01 16:37:53,956	INFO	connection to sqlite completed
+2018-11-01 16:37:54,095	INFO	row id: 7029 data sent successfully to iot sense gateway
+2018-11-01 16:37:54,295	INFO	row id: 7029 data deleted successfully
+2018-11-01 16:37:54,296	INFO	sqlite connection clolsed
+2018-11-01 16:37:56,499	INFO	row id: 7030 data sent successfully to iot sense gateway
+2018-11-01 16:37:56,501	INFO	connection to sqlite completed
+2018-11-01 16:37:56,701	INFO	row id: 7030 data sent successfully to iot sense gateway
+2018-11-01 16:37:56,761	INFO	row id: 7030 data deleted successfully
+2018-11-01 16:37:56,762	INFO	sqlite connection clolsed
+2018-11-01 16:37:58,950	INFO	row id: 7031 data sent successfully to iot sense gateway
+2018-11-01 16:37:58,951	INFO	connection to sqlite completed
+2018-11-01 16:37:59,080	INFO	row id: 7031 data sent successfully to iot sense gateway
+2018-11-01 16:37:59,134	INFO	row id: 7031 data deleted successfully
+2018-11-01 16:37:59,135	INFO	sqlite connection clolsed
+2018-11-01 16:38:01,345	INFO	row id: 7032 data sent successfully to iot sense gateway
+2018-11-01 16:38:01,347	INFO	connection to sqlite completed
+2018-11-01 16:38:01,704	INFO	row id: 7032 data sent successfully to iot sense gateway
+2018-11-01 16:38:01,780	INFO	row id: 7032 data deleted successfully
+2018-11-01 16:38:01,781	INFO	sqlite connection clolsed
+2018-11-01 16:38:04,109	INFO	row id: 7033 data sent successfully to iot sense gateway
+2018-11-01 16:38:04,111	INFO	connection to sqlite completed
+2018-11-01 16:38:04,302	INFO	row id: 7033 data sent successfully to iot sense gateway
+2018-11-01 16:38:04,357	INFO	row id: 7033 data deleted successfully
+2018-11-01 16:38:04,358	INFO	sqlite connection clolsed
+2018-11-01 16:38:06,590	INFO	row id: 7034 data sent successfully to iot sense gateway
+2018-11-01 16:38:06,592	INFO	connection to sqlite completed
+2018-11-01 16:38:06,712	INFO	row id: 7034 data sent successfully to iot sense gateway
+2018-11-01 16:38:06,777	INFO	row id: 7034 data deleted successfully
+2018-11-01 16:38:06,778	INFO	sqlite connection clolsed
+2018-11-01 16:38:09,019	INFO	row id: 7035 data sent successfully to iot sense gateway
+2018-11-01 16:38:09,020	INFO	connection to sqlite completed
+2018-11-01 16:38:09,119	INFO	row id: 7035 data sent successfully to iot sense gateway
+2018-11-01 16:38:09,671	INFO	row id: 7035 data deleted successfully
+2018-11-01 16:38:09,672	INFO	sqlite connection clolsed
+2018-11-01 16:38:11,872	INFO	row id: 7036 data sent successfully to iot sense gateway
+2018-11-01 16:38:11,874	INFO	connection to sqlite completed
+2018-11-01 16:38:12,022	INFO	row id: 7036 data sent successfully to iot sense gateway
+2018-11-01 16:38:12,459	INFO	row id: 7036 data deleted successfully
+2018-11-01 16:38:12,460	INFO	sqlite connection clolsed
+2018-11-01 16:38:14,705	INFO	row id: 7037 data sent successfully to iot sense gateway
+2018-11-01 16:38:14,707	INFO	connection to sqlite completed
+2018-11-01 16:38:14,802	INFO	row id: 7037 data sent successfully to iot sense gateway
+2018-11-01 16:38:15,068	INFO	row id: 7037 data deleted successfully
+2018-11-01 16:38:15,069	INFO	sqlite connection clolsed
+2018-11-01 16:38:17,228	INFO	row id: 7038 data sent successfully to iot sense gateway
+2018-11-01 16:38:17,229	INFO	connection to sqlite completed
+2018-11-01 16:38:17,317	INFO	row id: 7038 data sent successfully to iot sense gateway
+2018-11-01 16:38:17,442	INFO	row id: 7038 data deleted successfully
+2018-11-01 16:38:17,443	INFO	sqlite connection clolsed
+2018-11-01 16:38:19,824	INFO	row id: 7039 data sent successfully to iot sense gateway
+2018-11-01 16:38:19,826	INFO	connection to sqlite completed
+2018-11-01 16:38:20,218	INFO	row id: 7039 data sent successfully to iot sense gateway
+2018-11-01 16:38:20,424	INFO	row id: 7039 data deleted successfully
+2018-11-01 16:38:20,425	INFO	sqlite connection clolsed
+2018-11-01 16:38:22,557	INFO	row id: 7040 data sent successfully to iot sense gateway
+2018-11-01 16:38:22,559	INFO	connection to sqlite completed
+2018-11-01 16:38:22,651	INFO	row id: 7040 data sent successfully to iot sense gateway
+2018-11-01 16:38:22,795	INFO	row id: 7040 data deleted successfully
+2018-11-01 16:38:22,797	INFO	sqlite connection clolsed
+2018-11-01 16:38:25,177	INFO	row id: 7041 data sent successfully to iot sense gateway
+2018-11-01 16:38:25,179	INFO	connection to sqlite completed
+2018-11-01 16:38:25,291	INFO	row id: 7041 data sent successfully to iot sense gateway
+2018-11-01 16:38:25,384	INFO	row id: 7041 data deleted successfully
+2018-11-01 16:38:25,385	INFO	sqlite connection clolsed
+2018-11-01 16:38:27,573	INFO	row id: 7042 data sent successfully to iot sense gateway
+2018-11-01 16:38:27,575	INFO	connection to sqlite completed
+2018-11-01 16:38:27,677	INFO	row id: 7042 data sent successfully to iot sense gateway
+2018-11-01 16:38:27,725	INFO	row id: 7042 data deleted successfully
+2018-11-01 16:38:27,727	INFO	sqlite connection clolsed
+2018-11-01 16:38:29,898	INFO	row id: 7043 data sent successfully to iot sense gateway
+2018-11-01 16:38:29,900	INFO	connection to sqlite completed
+2018-11-01 16:38:30,049	INFO	row id: 7043 data sent successfully to iot sense gateway
+2018-11-01 16:38:30,142	INFO	row id: 7043 data deleted successfully
+2018-11-01 16:38:30,143	INFO	sqlite connection clolsed
+2018-11-01 16:38:32,404	INFO	row id: 7044 data sent successfully to iot sense gateway
+2018-11-01 16:38:32,406	INFO	connection to sqlite completed
+2018-11-01 16:38:32,528	INFO	row id: 7044 data sent successfully to iot sense gateway
+2018-11-01 16:38:32,640	INFO	row id: 7044 data deleted successfully
+2018-11-01 16:38:32,641	INFO	sqlite connection clolsed
+2018-11-01 16:38:35,146	INFO	row id: 7045 data sent successfully to iot sense gateway
+2018-11-01 16:38:35,147	INFO	connection to sqlite completed
+2018-11-01 16:38:35,235	INFO	row id: 7045 data sent successfully to iot sense gateway
+2018-11-01 16:38:35,316	INFO	row id: 7045 data deleted successfully
+2018-11-01 16:38:35,317	INFO	sqlite connection clolsed
+2018-11-01 16:38:37,491	INFO	row id: 7046 data sent successfully to iot sense gateway
+2018-11-01 16:38:37,493	INFO	connection to sqlite completed
+2018-11-01 16:38:37,594	INFO	row id: 7046 data sent successfully to iot sense gateway
+2018-11-01 16:38:37,656	INFO	row id: 7046 data deleted successfully
+2018-11-01 16:38:37,658	INFO	sqlite connection clolsed
+2018-11-01 16:38:39,795	INFO	row id: 7047 data sent successfully to iot sense gateway
+2018-11-01 16:38:39,796	INFO	connection to sqlite completed
+2018-11-01 16:38:39,866	INFO	row id: 7047 data sent successfully to iot sense gateway
+2018-11-01 16:38:39,904	INFO	row id: 7047 data deleted successfully
+2018-11-01 16:38:39,906	INFO	sqlite connection clolsed
+2018-11-01 16:38:42,176	INFO	row id: 7048 data sent successfully to iot sense gateway
+2018-11-01 16:38:42,178	INFO	connection to sqlite completed
+2018-11-01 16:38:42,371	INFO	row id: 7048 data sent successfully to iot sense gateway
+2018-11-01 16:38:42,423	INFO	row id: 7048 data deleted successfully
+2018-11-01 16:38:42,424	INFO	sqlite connection clolsed
+2018-11-01 16:38:44,615	INFO	row id: 7049 data sent successfully to iot sense gateway
+2018-11-01 16:38:44,616	INFO	connection to sqlite completed
+2018-11-01 16:38:44,745	INFO	row id: 7049 data sent successfully to iot sense gateway
+2018-11-01 16:38:44,804	INFO	row id: 7049 data deleted successfully
+2018-11-01 16:38:44,805	INFO	sqlite connection clolsed
+2018-11-01 16:38:47,060	INFO	row id: 7050 data sent successfully to iot sense gateway
+2018-11-01 16:38:47,061	INFO	connection to sqlite completed
+2018-11-01 16:38:47,239	INFO	row id: 7050 data sent successfully to iot sense gateway
+2018-11-01 16:38:47,307	INFO	row id: 7050 data deleted successfully
+2018-11-01 16:38:47,308	INFO	sqlite connection clolsed
+2018-11-01 16:39:30,186	INFO	connection to sqlite completed
+2018-11-01 16:45:33,781	INFO	connection to sqlite completed
+2018-11-01 16:45:39,820	INFO	row id: 7051 data sent successfully to iot sense gateway
+2018-11-01 16:45:53,411	ERROR	exception genrated while data sending towards iotsense gateway:
+2018-11-01 16:45:53,496	INFO	connection to sqlite completed
+2018-11-01 16:45:53,762	INFO	row id: 7051 data sent successfully to iot sense gateway
+2018-11-01 16:45:56,039	ERROR	exception genrated while data sending towards iotsense gateway:
+2018-11-01 16:45:56,589	ERROR	exception genrated
+2018-11-01 16:45:56,653	INFO	connection to sqlite completed
+2018-11-01 16:45:56,822	INFO	row id: 7051 data sent successfully to iot sense gateway
+2018-11-01 16:49:46,482	INFO	connection to sqlite completed
+2018-11-01 16:49:46,760	INFO	row id: 7051 data sent successfully to iot sense gateway
+2018-11-01 16:50:04,090	INFO	connection to sqlite completed
+2018-11-01 16:50:04,272	INFO	row id: 7051 data sent successfully to iot sense gateway
+2018-11-01 16:56:56,853	INFO	connection to sqlite completed
+2018-11-01 16:56:57,125	INFO	row id: 7051 data sent successfully to iot sense gateway
+2018-11-01 16:57:19,697	ERROR	exception genrated while data sending towards iotsense gateway:
+2018-11-01 16:59:26,047	INFO	connection to sqlite completed
+2018-11-01 16:59:26,281	INFO	row id: 7051 data sent successfully to iot sense gateway
+2018-11-01 17:04:15,574	INFO	connection to sqlite completed
+2018-11-01 17:04:15,881	INFO	row id: 1 data sent successfully to iot sense gateway
+2018-11-01 17:06:07,529	INFO	connection to sqlite completed
+2018-11-01 17:06:07,903	INFO	row id: 1 data sent successfully to iot sense gateway
+2018-11-01 17:06:08,052	INFO	row id: 1 data deleted successfully
+2018-11-01 17:06:08,055	INFO	sqlite connection clolsed
+2018-11-01 17:06:10,318	INFO	row id: 2 data sent successfully to iot sense gateway
+2018-11-01 17:06:10,345	INFO	connection to sqlite completed
+2018-11-01 17:06:10,424	INFO	row id: 2 data sent successfully to iot sense gateway
+2018-11-01 17:06:10,467	INFO	row id: 2 data deleted successfully
+2018-11-01 17:06:10,469	INFO	sqlite connection clolsed
+2018-11-01 17:06:13,683	INFO	row id: 3 data sent successfully to iot sense gateway
+2018-11-01 17:06:13,724	INFO	connection to sqlite completed
+2018-11-01 17:06:13,831	INFO	row id: 3 data sent successfully to iot sense gateway
+2018-11-01 17:06:13,884	INFO	row id: 3 data deleted successfully
+2018-11-01 17:06:13,886	INFO	sqlite connection clolsed
+2018-11-01 17:06:16,044	INFO	row id: 4 data sent successfully to iot sense gateway
+2018-11-01 17:06:16,078	INFO	connection to sqlite completed
+2018-11-01 17:06:16,199	INFO	row id: 4 data sent successfully to iot sense gateway
+2018-11-01 17:06:16,315	INFO	row id: 4 data deleted successfully
+2018-11-01 17:06:16,316	INFO	sqlite connection clolsed
+2018-11-01 17:06:18,480	INFO	row id: 5 data sent successfully to iot sense gateway
+2018-11-01 17:06:18,482	INFO	connection to sqlite completed
+2018-11-01 17:06:18,585	INFO	row id: 5 data sent successfully to iot sense gateway
+2018-11-01 17:06:18,661	INFO	row id: 5 data deleted successfully
+2018-11-01 17:06:18,662	INFO	sqlite connection clolsed
+2018-11-01 17:06:20,807	INFO	row id: 6 data sent successfully to iot sense gateway
+2018-11-01 17:06:20,841	INFO	connection to sqlite completed
+2018-11-01 17:06:20,938	INFO	row id: 6 data sent successfully to iot sense gateway
+2018-11-01 17:06:21,073	INFO	row id: 6 data deleted successfully
+2018-11-01 17:06:21,074	INFO	sqlite connection clolsed
+2018-11-01 17:06:24,253	INFO	row id: 7 data sent successfully to iot sense gateway
+2018-11-01 17:06:24,310	INFO	connection to sqlite completed
+2018-11-01 17:06:24,417	INFO	row id: 7 data sent successfully to iot sense gateway
+2018-11-01 17:06:24,523	INFO	row id: 7 data deleted successfully
+2018-11-01 17:06:24,525	INFO	sqlite connection clolsed
+2018-11-01 17:06:26,863	INFO	row id: 8 data sent successfully to iot sense gateway
+2018-11-01 17:06:26,917	INFO	connection to sqlite completed
+2018-11-01 17:06:27,034	INFO	row id: 8 data sent successfully to iot sense gateway
+2018-11-01 17:06:27,135	INFO	row id: 8 data deleted successfully
+2018-11-01 17:06:27,136	INFO	sqlite connection clolsed
+2018-11-01 17:06:29,308	INFO	row id: 9 data sent successfully to iot sense gateway
+2018-11-01 17:06:29,353	INFO	connection to sqlite completed
+2018-11-01 17:06:29,465	INFO	row id: 9 data sent successfully to iot sense gateway
+2018-11-01 17:06:29,583	INFO	row id: 9 data deleted successfully
+2018-11-01 17:06:29,585	INFO	sqlite connection clolsed
+2018-11-01 17:06:31,806	INFO	row id: 10 data sent successfully to iot sense gateway
+2018-11-01 17:06:31,809	INFO	connection to sqlite completed
+2018-11-01 17:06:31,929	INFO	row id: 10 data sent successfully to iot sense gateway
+2018-11-01 17:06:32,081	INFO	row id: 10 data deleted successfully
+2018-11-01 17:06:32,083	INFO	sqlite connection clolsed
+2018-11-01 17:06:34,622	INFO	row id: 11 data sent successfully to iot sense gateway
+2018-11-01 17:06:34,792	INFO	connection to sqlite completed
+2018-11-01 17:06:34,976	INFO	row id: 11 data sent successfully to iot sense gateway
+2018-11-01 17:06:35,146	INFO	row id: 11 data deleted successfully
+2018-11-01 17:06:35,148	INFO	sqlite connection clolsed
+2018-11-01 17:06:37,343	INFO	row id: 12 data sent successfully to iot sense gateway
+2018-11-01 17:06:37,382	INFO	connection to sqlite completed
+2018-11-01 17:06:37,472	INFO	row id: 12 data sent successfully to iot sense gateway
+2018-11-01 17:06:37,531	INFO	row id: 12 data deleted successfully
+2018-11-01 17:06:37,532	INFO	sqlite connection clolsed
+2018-11-01 17:06:39,817	INFO	row id: 13 data sent successfully to iot sense gateway
+2018-11-01 17:06:39,869	INFO	connection to sqlite completed
+2018-11-01 17:06:40,132	INFO	row id: 13 data sent successfully to iot sense gateway
+2018-11-01 17:06:40,277	INFO	row id: 13 data deleted successfully
+2018-11-01 17:06:40,278	INFO	sqlite connection clolsed
+2018-11-01 17:06:43,509	INFO	row id: 14 data sent successfully to iot sense gateway
+2018-11-01 17:06:43,556	INFO	connection to sqlite completed
+2018-11-01 17:06:43,682	INFO	row id: 14 data sent successfully to iot sense gateway
+2018-11-01 17:06:43,778	INFO	row id: 14 data deleted successfully
+2018-11-01 17:06:43,779	INFO	sqlite connection clolsed
+2018-11-01 17:06:46,002	INFO	row id: 15 data sent successfully to iot sense gateway
+2018-11-01 17:06:46,043	INFO	connection to sqlite completed
+2018-11-01 17:06:52,224	INFO	row id: 15 data sent successfully to iot sense gateway
+2018-11-01 17:06:52,379	INFO	row id: 15 data deleted successfully
+2018-11-01 17:06:52,379	INFO	sqlite connection clolsed
+2018-11-01 17:06:54,421	INFO	connection to sqlite completed
+2018-11-01 17:06:54,606	INFO	No data to upload
+2018-11-01 17:06:54,645	INFO	sqlite connection closed
+2018-11-01 17:07:24,673	INFO	connection to sqlite completed
+2018-11-01 17:07:24,880	INFO	No data to upload
+2018-11-01 17:07:24,921	INFO	sqlite connection closed
+2018-11-01 17:07:54,952	INFO	connection to sqlite completed
+2018-11-01 17:07:55,213	INFO	No data to upload
+2018-11-01 17:07:55,259	INFO	sqlite connection closed
+2018-11-01 17:08:25,273	INFO	connection to sqlite completed
+2018-11-01 17:08:25,661	INFO	row id: 16 data sent successfully to iot sense gateway
+2018-11-01 17:08:25,820	INFO	row id: 16 data deleted successfully
+2018-11-01 17:08:25,821	INFO	sqlite connection clolsed
+2018-11-01 17:08:28,106	INFO	row id: 17 data sent successfully to iot sense gateway
+2018-11-01 17:08:28,146	INFO	connection to sqlite completed
+2018-11-01 17:08:28,292	INFO	row id: 17 data sent successfully to iot sense gateway
+2018-11-01 17:08:28,391	INFO	row id: 17 data deleted successfully
+2018-11-01 17:08:28,392	INFO	sqlite connection clolsed
+2018-11-01 17:08:30,444	INFO	connection to sqlite completed
+2018-11-01 17:08:30,594	INFO	No data to upload
+2018-11-01 17:08:30,644	INFO	sqlite connection closed
+2018-11-01 17:09:00,676	INFO	connection to sqlite completed
+2018-11-01 17:09:00,848	INFO	No data to upload
+2018-11-01 17:09:00,883	INFO	sqlite connection closed
+2018-11-01 17:09:30,912	INFO	connection to sqlite completed
+2018-11-01 17:09:31,043	INFO	No data to upload
+2018-11-01 17:09:31,069	INFO	sqlite connection closed
+2018-11-01 17:10:01,096	INFO	connection to sqlite completed
+2018-11-01 17:10:01,490	INFO	row id: 18 data sent successfully to iot sense gateway
+2018-11-01 17:10:01,861	INFO	row id: 18 data deleted successfully
+2018-11-01 17:10:01,862	INFO	sqlite connection clolsed
+2018-11-01 17:10:03,979	INFO	connection to sqlite completed
+2018-11-01 17:10:04,257	INFO	No data to upload
+2018-11-01 17:10:04,302	INFO	sqlite connection closed
+2018-11-01 17:10:34,315	INFO	connection to sqlite completed
+2018-11-01 17:10:34,621	INFO	row id: 19 data sent successfully to iot sense gateway
+2018-11-01 17:10:34,775	INFO	row id: 19 data deleted successfully
+2018-11-01 17:10:34,777	INFO	sqlite connection clolsed
+2018-11-01 17:10:37,154	INFO	row id: 20 data sent successfully to iot sense gateway
+2018-11-01 17:10:37,197	INFO	connection to sqlite completed
+2018-11-01 17:10:37,313	INFO	row id: 20 data sent successfully to iot sense gateway
+2018-11-01 17:10:37,478	INFO	row id: 20 data deleted successfully
+2018-11-01 17:10:37,479	INFO	sqlite connection clolsed
+2018-11-01 17:10:39,902	INFO	connection to sqlite completed
+2018-11-01 17:10:40,096	INFO	No data to upload
+2018-11-01 17:10:40,143	INFO	sqlite connection closed
+2018-11-01 17:11:10,174	INFO	connection to sqlite completed
+2018-11-01 17:11:10,315	INFO	No data to upload
+2018-11-01 17:11:10,343	INFO	sqlite connection closed
+2018-11-01 17:11:40,345	INFO	connection to sqlite completed
+2018-11-01 17:11:40,529	INFO	No data to upload
+2018-11-01 17:11:40,619	INFO	sqlite connection closed
+2018-11-01 17:12:10,646	INFO	connection to sqlite completed
+2018-11-01 17:12:11,294	INFO	row id: 21 data sent successfully to iot sense gateway
+2018-11-01 17:12:11,414	INFO	row id: 21 data deleted successfully
+2018-11-01 17:12:11,415	INFO	sqlite connection clolsed
+2018-11-01 17:12:13,515	INFO	connection to sqlite completed
+2018-11-01 17:12:13,694	INFO	No data to upload
+2018-11-01 17:12:13,745	INFO	sqlite connection closed
+2018-11-01 17:12:43,777	INFO	connection to sqlite completed
+2018-11-01 17:12:44,033	INFO	row id: 22 data sent successfully to iot sense gateway
+2018-11-01 17:12:44,139	INFO	row id: 22 data deleted successfully
+2018-11-01 17:12:44,140	INFO	sqlite connection clolsed
+2018-11-01 17:12:46,338	INFO	row id: 23 data sent successfully to iot sense gateway
+2018-11-01 17:12:46,396	INFO	connection to sqlite completed
+2018-11-01 17:12:46,524	INFO	row id: 23 data sent successfully to iot sense gateway
+2018-11-01 17:12:46,648	INFO	row id: 23 data deleted successfully
+2018-11-01 17:12:46,649	INFO	sqlite connection clolsed
+2018-11-01 17:12:48,978	INFO	row id: 24 data sent successfully to iot sense gateway
+2018-11-01 17:12:49,025	INFO	connection to sqlite completed
+2018-11-01 17:12:49,141	INFO	row id: 24 data sent successfully to iot sense gateway
+2018-11-01 17:12:49,238	INFO	row id: 24 data deleted successfully
+2018-11-01 17:12:49,239	INFO	sqlite connection clolsed
+2018-11-01 17:12:51,341	INFO	connection to sqlite completed
+2018-11-01 17:12:51,730	INFO	row id: 25 data sent successfully to iot sense gateway
+2018-11-01 17:12:51,838	INFO	row id: 25 data deleted successfully
+2018-11-01 17:12:51,840	INFO	sqlite connection clolsed
+2018-11-01 17:12:53,939	INFO	connection to sqlite completed
+2018-11-01 17:12:54,054	INFO	No data to upload
+2018-11-01 17:12:54,080	INFO	sqlite connection closed
+2018-11-01 17:13:24,094	INFO	connection to sqlite completed
+2018-11-01 17:13:24,502	INFO	row id: 26 data sent successfully to iot sense gateway
+2018-11-01 17:13:24,680	INFO	row id: 26 data deleted successfully
+2018-11-01 17:13:24,682	INFO	sqlite connection clolsed
+2018-11-01 17:13:26,774	INFO	connection to sqlite completed
+2018-11-01 17:13:26,935	INFO	No data to upload
+2018-11-01 17:13:26,972	INFO	sqlite connection closed
+2018-11-01 17:13:57,001	INFO	connection to sqlite completed
+2018-11-01 17:13:57,146	INFO	No data to upload
+2018-11-01 17:13:57,174	INFO	sqlite connection closed
+2018-11-01 17:14:27,205	INFO	connection to sqlite completed
+2018-11-01 17:14:28,117	INFO	No data to upload
+2018-11-01 17:14:28,226	INFO	sqlite connection closed
+2018-11-01 17:14:58,244	INFO	connection to sqlite completed
+2018-11-01 17:14:58,727	INFO	row id: 27 data sent successfully to iot sense gateway
+2018-11-01 17:14:58,889	INFO	row id: 27 data deleted successfully
+2018-11-01 17:14:58,891	INFO	sqlite connection clolsed
+2018-11-01 17:15:01,193	INFO	row id: 28 data sent successfully to iot sense gateway
+2018-11-01 17:15:01,231	INFO	connection to sqlite completed
+2018-11-01 17:15:01,336	INFO	row id: 28 data sent successfully to iot sense gateway
+2018-11-01 17:15:01,456	INFO	row id: 28 data deleted successfully
+2018-11-01 17:15:01,457	INFO	sqlite connection clolsed
+2018-11-01 17:15:03,505	INFO	connection to sqlite completed
+2018-11-01 17:15:03,672	INFO	No data to upload
+2018-11-01 17:15:03,720	INFO	sqlite connection closed
+2018-11-01 17:15:33,726	INFO	connection to sqlite completed
+2018-11-01 17:15:35,897	INFO	No data to upload
+2018-11-01 17:15:36,366	INFO	sqlite connection closed
+2018-11-01 17:16:06,398	INFO	connection to sqlite completed
+2018-11-01 17:16:06,683	INFO	No data to upload
+2018-11-01 17:16:06,709	INFO	sqlite connection closed
+2018-11-01 17:16:36,739	INFO	connection to sqlite completed
+2018-11-01 17:16:36,964	INFO	No data to upload
+2018-11-01 17:16:37,006	INFO	sqlite connection closed
+2018-11-01 17:17:07,036	INFO	connection to sqlite completed
+2018-11-01 17:17:55,197	INFO	connection to sqlite completed
+2018-11-01 17:17:55,415	INFO	No data to upload
+2018-11-01 17:17:55,456	INFO	sqlite connection closed
+2018-11-01 17:18:25,472	INFO	connection to sqlite completed
+2018-11-01 17:18:25,899	INFO	No data to upload
+2018-11-01 17:18:25,944	INFO	sqlite connection closed
+2018-11-01 17:18:55,977	INFO	connection to sqlite completed
+2018-11-01 17:18:59,222	INFO	row id: 29 data sent successfully to iot sense gateway
+2018-11-01 17:18:59,327	INFO	row id: 29 data deleted successfully
+2018-11-01 17:18:59,328	INFO	sqlite connection clolsed
+2018-11-01 17:19:01,555	INFO	row id: 30 data sent successfully to iot sense gateway
+2018-11-01 17:19:01,559	INFO	connection to sqlite completed
+2018-11-01 17:19:01,710	INFO	row id: 30 data sent successfully to iot sense gateway
+2018-11-01 17:19:01,867	INFO	row id: 30 data deleted successfully
+2018-11-01 17:19:01,868	INFO	sqlite connection clolsed
+2018-11-01 17:19:04,139	INFO	row id: 31 data sent successfully to iot sense gateway
+2018-11-01 17:19:04,142	INFO	connection to sqlite completed
+2018-11-01 17:19:09,379	INFO	row id: 31 data sent successfully to iot sense gateway
+2018-11-01 17:19:09,539	INFO	row id: 31 data deleted successfully
+2018-11-01 17:19:09,541	INFO	sqlite connection clolsed
+2018-11-01 17:19:11,782	INFO	row id: 32 data sent successfully to iot sense gateway
+2018-11-01 17:19:11,786	INFO	connection to sqlite completed
+2018-11-01 17:19:11,951	INFO	row id: 32 data sent successfully to iot sense gateway
+2018-11-01 17:19:12,076	INFO	row id: 32 data deleted successfully
+2018-11-01 17:19:12,077	INFO	sqlite connection clolsed
+2018-11-01 17:19:14,110	INFO	connection to sqlite completed
+2018-11-01 17:19:14,526	INFO	row id: 33 data sent successfully to iot sense gateway
+2018-11-01 17:19:14,816	INFO	row id: 33 data deleted successfully
+2018-11-01 17:19:14,818	INFO	sqlite connection clolsed
+2018-11-01 17:19:16,862	INFO	connection to sqlite completed
+2018-11-01 17:19:17,063	INFO	row id: 34 data sent successfully to iot sense gateway
+2018-11-01 17:19:17,166	INFO	row id: 34 data deleted successfully
+2018-11-01 17:19:17,167	INFO	sqlite connection clolsed
+2018-11-01 17:19:19,240	INFO	connection to sqlite completed
+2018-11-01 17:19:19,711	INFO	No data to upload
+2018-11-01 17:19:19,869	INFO	sqlite connection closed
+2018-11-01 17:19:49,890	INFO	connection to sqlite completed
+2018-11-01 17:19:50,291	INFO	row id: 35 data sent successfully to iot sense gateway
+2018-11-01 17:19:50,457	INFO	row id: 35 data deleted successfully
+2018-11-01 17:19:50,459	INFO	sqlite connection clolsed
+2018-11-01 17:19:52,866	INFO	row id: 36 data sent successfully to iot sense gateway
+2018-11-01 17:19:52,868	INFO	connection to sqlite completed
+2018-11-01 17:19:53,108	INFO	row id: 36 data sent successfully to iot sense gateway
+2018-11-01 17:19:53,837	INFO	row id: 36 data deleted successfully
+2018-11-01 17:19:53,838	INFO	sqlite connection clolsed
+2018-11-01 17:19:56,077	INFO	connection to sqlite completed
+2018-11-01 17:19:58,523	INFO	No data to upload
+2018-11-01 17:19:58,554	INFO	sqlite connection closed
+2018-11-01 17:22:24,272	INFO	connection to sqlite completed
+2018-11-01 17:22:25,366	INFO	No data to upload
+2018-11-01 17:22:25,394	INFO	sqlite connection closed
+2018-11-01 17:22:55,416	INFO	connection to sqlite completed
+2018-11-01 17:22:55,827	INFO	No data to upload
+2018-11-01 17:22:55,932	INFO	sqlite connection closed
+2018-11-01 17:23:25,943	INFO	connection to sqlite completed
+2018-11-01 17:23:27,302	INFO	row id: 37 data sent successfully to iot sense gateway
+2018-11-01 17:23:27,403	INFO	row id: 37 data deleted successfully
+2018-11-01 17:23:27,404	INFO	sqlite connection clolsed
+2018-11-01 17:23:29,607	INFO	row id: 38 data sent successfully to iot sense gateway
+2018-11-01 17:23:29,642	INFO	connection to sqlite completed
+2018-11-01 17:23:29,767	INFO	row id: 38 data sent successfully to iot sense gateway
+2018-11-01 17:23:29,889	INFO	row id: 38 data deleted successfully
+2018-11-01 17:23:29,890	INFO	sqlite connection clolsed
+2018-11-01 17:23:31,928	INFO	connection to sqlite completed
+2018-11-01 17:23:32,069	INFO	No data to upload
+2018-11-01 17:23:32,107	INFO	sqlite connection closed
+2018-11-01 17:24:02,134	INFO	connection to sqlite completed
+2018-11-01 17:24:02,403	INFO	No data to upload
+2018-11-01 17:24:02,445	INFO	sqlite connection closed
+2018-11-01 17:25:39,468	INFO	connection to sqlite completed
+2018-11-01 17:25:39,596	INFO	No data to upload
+2018-11-01 17:25:39,632	INFO	sqlite connection closed
+2018-11-01 17:25:51,008	INFO	connection to sqlite completed
+2018-11-01 17:25:51,206	INFO	No data to upload
+2018-11-01 17:25:51,224	INFO	sqlite connection closed
+2018-11-01 17:26:09,645	INFO	connection to sqlite completed
+2018-11-01 17:26:09,805	INFO	No data to upload
+2018-11-01 17:26:09,844	INFO	sqlite connection closed
+2018-11-01 17:26:39,851	INFO	connection to sqlite completed
+2018-11-01 17:26:40,277	INFO	row id: 39 data sent successfully to iot sense gateway
+2018-11-01 17:26:40,352	INFO	row id: 39 data deleted successfully
+2018-11-01 17:26:40,353	INFO	sqlite connection clolsed
+2018-11-01 17:26:42,534	INFO	row id: 40 data sent successfully to iot sense gateway
+2018-11-01 17:26:42,535	INFO	connection to sqlite completed
+2018-11-01 17:26:42,647	INFO	row id: 40 data sent successfully to iot sense gateway
+2018-11-01 17:26:42,707	INFO	row id: 40 data deleted successfully
+2018-11-01 17:26:42,708	INFO	sqlite connection clolsed
+2018-11-01 17:26:49,962	INFO	row id: 41 data sent successfully to iot sense gateway
+2018-11-01 17:26:49,963	INFO	connection to sqlite completed
+2018-11-01 17:26:50,080	INFO	row id: 41 data sent successfully to iot sense gateway
+2018-11-01 17:26:50,153	INFO	row id: 41 data deleted successfully
+2018-11-01 17:26:50,154	INFO	sqlite connection clolsed
+2018-11-01 17:26:52,258	INFO	connection to sqlite completed
+2018-11-01 17:26:52,499	INFO	row id: 42 data sent successfully to iot sense gateway
+2018-11-01 17:26:52,647	INFO	row id: 42 data deleted successfully
+2018-11-01 17:26:52,648	INFO	sqlite connection clolsed
+2018-11-01 17:26:55,050	INFO	row id: 43 data sent successfully to iot sense gateway
+2018-11-01 17:26:55,051	INFO	connection to sqlite completed
+2018-11-01 17:26:56,251	INFO	row id: 43 data sent successfully to iot sense gateway
+2018-11-01 17:26:56,328	INFO	row id: 43 data deleted successfully
+2018-11-01 17:26:56,329	INFO	sqlite connection clolsed
+2018-11-01 17:26:59,300	INFO	connection to sqlite completed
+2018-11-01 17:27:00,961	INFO	row id: 44 data sent successfully to iot sense gateway
+2018-11-01 17:27:01,241	INFO	row id: 44 data deleted successfully
+2018-11-01 17:27:01,242	INFO	sqlite connection clolsed
+2018-11-01 17:27:03,511	INFO	row id: 45 data sent successfully to iot sense gateway
+2018-11-01 17:27:03,513	INFO	connection to sqlite completed
+2018-11-01 17:27:04,673	INFO	row id: 45 data sent successfully to iot sense gateway
+2018-11-01 17:27:04,742	INFO	row id: 45 data deleted successfully
+2018-11-01 17:27:04,743	INFO	sqlite connection clolsed
+2018-11-01 17:27:06,896	INFO	connection to sqlite completed
+2018-11-01 17:27:07,141	INFO	row id: 46 data sent successfully to iot sense gateway
+2018-11-01 17:27:07,201	INFO	row id: 46 data deleted successfully
+2018-11-01 17:27:07,202	INFO	sqlite connection clolsed
+2018-11-01 17:27:09,254	INFO	connection to sqlite completed
+2018-11-01 17:27:09,776	INFO	No data to upload
+2018-11-01 17:27:09,824	INFO	sqlite connection closed
+2018-11-01 17:27:39,846	INFO	connection to sqlite completed
+2018-11-01 17:27:41,219	INFO	row id: 47 data sent successfully to iot sense gateway
+2018-11-01 17:27:41,329	INFO	row id: 47 data deleted successfully
+2018-11-01 17:27:41,330	INFO	sqlite connection clolsed
+2018-11-01 17:27:43,680	INFO	row id: 48 data sent successfully to iot sense gateway
+2018-11-01 17:27:43,681	INFO	connection to sqlite completed
+2018-11-01 17:27:43,812	INFO	row id: 48 data sent successfully to iot sense gateway
+2018-11-01 17:27:43,863	INFO	row id: 48 data deleted successfully
+2018-11-01 17:27:43,864	INFO	sqlite connection clolsed
+2018-11-01 17:27:46,294	INFO	row id: 49 data sent successfully to iot sense gateway
+2018-11-01 17:27:46,295	INFO	connection to sqlite completed
+2018-11-01 17:27:46,502	INFO	row id: 49 data sent successfully to iot sense gateway
+2018-11-01 17:27:46,568	INFO	row id: 49 data deleted successfully
+2018-11-01 17:27:46,569	INFO	sqlite connection clolsed
+2018-11-01 17:27:48,647	INFO	connection to sqlite completed
+2018-11-01 17:27:48,798	INFO	No data to upload
+2018-11-01 17:27:48,867	INFO	sqlite connection closed
+2018-11-01 17:28:18,899	INFO	connection to sqlite completed
+2018-11-01 17:28:19,119	INFO	No data to upload
+2018-11-01 17:28:19,157	INFO	sqlite connection closed
+2018-11-01 17:28:49,189	INFO	connection to sqlite completed
+2018-11-01 17:28:49,749	INFO	No data to upload
+2018-11-01 17:28:49,786	INFO	sqlite connection closed
+2018-11-01 17:29:19,817	INFO	connection to sqlite completed
+2018-11-01 17:29:20,382	INFO	No data to upload
+2018-11-01 17:29:20,406	INFO	sqlite connection closed
+2018-11-01 17:29:50,415	INFO	connection to sqlite completed
+2018-11-01 17:29:50,600	INFO	No data to upload
+2018-11-01 17:29:50,657	INFO	sqlite connection closed
+2018-11-01 17:30:20,663	INFO	connection to sqlite completed
+2018-11-01 17:30:20,851	INFO	No data to upload
+2018-11-01 17:30:20,891	INFO	sqlite connection closed
+2018-11-01 17:30:50,920	INFO	connection to sqlite completed
+2018-11-01 17:30:51,095	INFO	No data to upload
+2018-11-01 17:30:51,126	INFO	sqlite connection closed
+2018-11-01 17:31:21,128	INFO	connection to sqlite completed
+2018-11-01 17:31:21,276	INFO	No data to upload
+2018-11-01 17:31:21,318	INFO	sqlite connection closed
+2018-11-01 17:31:51,335	INFO	connection to sqlite completed
+2018-11-01 17:31:51,494	INFO	No data to upload
+2018-11-01 17:31:51,523	INFO	sqlite connection closed
+2018-11-01 17:32:21,552	INFO	connection to sqlite completed
+2018-11-01 17:32:21,970	INFO	No data to upload
+2018-11-01 17:32:22,014	INFO	sqlite connection closed
+2018-11-01 17:32:52,030	INFO	connection to sqlite completed
+2018-11-01 17:34:50,840	INFO	No data to upload
+2018-11-01 17:34:50,873	INFO	sqlite connection closed
+2018-11-01 17:35:20,896	INFO	connection to sqlite completed
+2018-11-01 17:35:21,095	INFO	No data to upload
+2018-11-01 17:35:21,172	INFO	sqlite connection closed
+2018-11-01 17:35:51,189	INFO	connection to sqlite completed
+2018-11-01 17:35:51,572	INFO	No data to upload
+2018-11-01 17:35:51,604	INFO	sqlite connection closed
+2018-11-01 17:36:21,622	INFO	connection to sqlite completed
+2018-11-01 17:36:22,012	INFO	No data to upload
+2018-11-01 17:36:22,034	INFO	sqlite connection closed
+2018-11-01 17:36:36,957	INFO	connection to sqlite completed
+2018-11-01 17:36:37,066	INFO	No data to upload
+2018-11-01 17:36:37,085	INFO	sqlite connection closed
+2018-11-01 17:38:05,032	INFO	connection to sqlite completed
+2018-11-01 17:38:05,258	INFO	No data to upload
+2018-11-01 17:38:05,369	INFO	sqlite connection closed
+2018-11-01 17:38:35,399	INFO	connection to sqlite completed
+2018-11-01 17:38:56,603	INFO	connection to sqlite completed
+2018-11-01 17:39:56,060	INFO	connection to sqlite completed
+2018-11-01 17:39:56,518	INFO	row id: 50 data sent successfully to iot sense gateway
+2018-11-01 17:39:56,596	INFO	row id: 50 data deleted successfully
+2018-11-01 17:39:56,597	INFO	sqlite connection clolsed
+2018-11-01 17:39:59,012	INFO	row id: 51 data sent successfully to iot sense gateway
+2018-11-01 17:39:59,013	INFO	connection to sqlite completed
+2018-11-01 17:39:59,291	INFO	row id: 51 data sent successfully to iot sense gateway
+2018-11-01 17:39:59,612	INFO	row id: 51 data deleted successfully
+2018-11-01 17:39:59,613	INFO	sqlite connection clolsed
+2018-11-01 17:40:01,654	INFO	connection to sqlite completed
+2018-11-01 17:40:01,761	INFO	No data to upload
+2018-11-01 17:40:01,850	INFO	sqlite connection closed
+2018-11-01 17:40:31,877	INFO	connection to sqlite completed
+2018-11-01 17:40:32,239	INFO	No data to upload
+2018-11-01 17:40:32,281	INFO	sqlite connection closed
+2018-11-01 17:41:02,306	INFO	connection to sqlite completed
+2018-11-01 17:41:02,589	INFO	No data to upload
+2018-11-01 17:41:02,617	INFO	sqlite connection closed
+2018-11-01 17:41:32,627	INFO	connection to sqlite completed
+2018-11-01 17:41:32,816	INFO	No data to upload
+2018-11-01 17:41:32,932	INFO	sqlite connection closed
+2018-11-01 17:42:02,953	INFO	connection to sqlite completed
+2018-11-01 17:42:03,241	INFO	No data to upload
+2018-11-01 17:42:03,334	INFO	sqlite connection closed
+2018-11-01 17:42:33,366	INFO	connection to sqlite completed
+2018-11-01 17:42:33,824	INFO	No data to upload
+2018-11-01 17:42:33,883	INFO	sqlite connection closed
+2018-11-01 17:43:03,915	INFO	connection to sqlite completed
+2018-11-01 17:43:04,124	INFO	No data to upload
+2018-11-01 17:43:04,222	INFO	sqlite connection closed
+2018-11-01 17:43:34,228	INFO	connection to sqlite completed
+2018-11-01 17:43:34,377	INFO	No data to upload
+2018-11-01 17:43:34,415	INFO	sqlite connection closed
+2018-11-01 17:44:04,446	INFO	connection to sqlite completed
+2018-11-01 17:44:05,064	INFO	No data to upload
+2018-11-01 17:44:05,123	INFO	sqlite connection closed
+2018-11-01 17:44:35,154	INFO	connection to sqlite completed
+2018-11-01 17:44:35,562	INFO	No data to upload
+2018-11-01 17:44:35,602	INFO	sqlite connection closed
+2018-11-01 17:45:05,621	INFO	connection to sqlite completed
+2018-11-01 17:45:05,913	INFO	No data to upload
+2018-11-01 17:45:06,179	INFO	sqlite connection closed
+2018-11-01 17:45:20,474	INFO	connection to sqlite completed
+2018-11-01 17:45:20,566	INFO	No data to upload
+2018-11-01 17:45:20,589	INFO	sqlite connection closed
+2018-11-01 17:45:50,616	INFO	connection to sqlite completed
+2018-11-01 17:51:23,109	INFO	connection to sqlite completed
+2018-11-01 17:51:28,529	INFO	row id: 52 data sent successfully to iot sense gateway
+2018-11-01 17:51:28,598	INFO	row id: 52 data deleted successfully
+2018-11-01 17:51:28,600	INFO	sqlite connection clolsed
+2018-11-01 17:51:30,835	INFO	row id: 53 data sent successfully to iot sense gateway
+2018-11-01 17:51:30,837	INFO	connection to sqlite completed
+2018-11-01 17:51:30,933	INFO	row id: 53 data sent successfully to iot sense gateway
+2018-11-01 17:51:30,979	INFO	row id: 53 data deleted successfully
+2018-11-01 17:51:30,980	INFO	sqlite connection clolsed
+2018-11-01 17:51:33,089	INFO	row id: 54 data sent successfully to iot sense gateway
+2018-11-01 17:51:33,091	INFO	connection to sqlite completed
+2018-11-01 17:51:33,162	INFO	row id: 54 data sent successfully to iot sense gateway
+2018-11-01 17:51:33,220	INFO	row id: 54 data deleted successfully
+2018-11-01 17:51:33,222	INFO	sqlite connection clolsed
+2018-11-01 17:51:35,367	INFO	row id: 55 data sent successfully to iot sense gateway
+2018-11-01 17:51:35,369	INFO	connection to sqlite completed
+2018-11-01 17:51:35,459	INFO	row id: 55 data sent successfully to iot sense gateway
+2018-11-01 17:51:35,535	INFO	row id: 55 data deleted successfully
+2018-11-01 17:51:35,536	INFO	sqlite connection clolsed
+2018-11-01 17:51:37,716	INFO	row id: 56 data sent successfully to iot sense gateway
+2018-11-01 17:51:37,717	INFO	connection to sqlite completed
+2018-11-01 17:51:37,778	INFO	row id: 56 data sent successfully to iot sense gateway
+2018-11-01 17:51:37,821	INFO	row id: 56 data deleted successfully
+2018-11-01 17:51:37,822	INFO	sqlite connection clolsed
+2018-11-01 17:51:40,018	INFO	row id: 57 data sent successfully to iot sense gateway
+2018-11-01 17:51:40,019	INFO	connection to sqlite completed
+2018-11-01 17:51:40,122	INFO	row id: 57 data sent successfully to iot sense gateway
+2018-11-01 17:51:40,184	INFO	row id: 57 data deleted successfully
+2018-11-01 17:51:40,185	INFO	sqlite connection clolsed
+2018-11-01 17:51:42,336	INFO	row id: 58 data sent successfully to iot sense gateway
+2018-11-01 17:51:42,338	INFO	connection to sqlite completed
+2018-11-01 17:51:42,437	INFO	row id: 58 data sent successfully to iot sense gateway
+2018-11-01 17:51:42,472	INFO	row id: 58 data deleted successfully
+2018-11-01 17:51:42,473	INFO	sqlite connection clolsed
+2018-11-01 17:51:44,632	INFO	row id: 59 data sent successfully to iot sense gateway
+2018-11-01 17:51:44,634	INFO	connection to sqlite completed
+2018-11-01 17:51:44,770	INFO	row id: 59 data sent successfully to iot sense gateway
+2018-11-01 17:51:44,810	INFO	row id: 59 data deleted successfully
+2018-11-01 17:51:44,811	INFO	sqlite connection clolsed
+2018-11-01 17:51:46,957	INFO	row id: 60 data sent successfully to iot sense gateway
+2018-11-01 17:51:46,959	INFO	connection to sqlite completed
+2018-11-01 17:51:47,068	INFO	row id: 60 data sent successfully to iot sense gateway
+2018-11-01 17:51:47,119	INFO	row id: 60 data deleted successfully
+2018-11-01 17:51:47,121	INFO	sqlite connection clolsed
+2018-11-01 17:51:49,454	INFO	row id: 61 data sent successfully to iot sense gateway
+2018-11-01 17:51:49,455	INFO	connection to sqlite completed
+2018-11-01 17:51:49,572	INFO	row id: 61 data sent successfully to iot sense gateway
+2018-11-01 17:51:49,624	INFO	row id: 61 data deleted successfully
+2018-11-01 17:51:49,625	INFO	sqlite connection clolsed
+2018-11-01 17:51:51,786	INFO	row id: 62 data sent successfully to iot sense gateway
+2018-11-01 17:51:51,788	INFO	connection to sqlite completed
+2018-11-01 17:51:52,957	INFO	row id: 62 data sent successfully to iot sense gateway
+2018-11-01 17:51:53,030	INFO	row id: 62 data deleted successfully
+2018-11-01 17:51:53,031	INFO	sqlite connection clolsed
+2018-11-01 17:51:55,279	INFO	row id: 63 data sent successfully to iot sense gateway
+2018-11-01 17:51:55,281	INFO	connection to sqlite completed
+2018-11-01 17:51:55,407	INFO	row id: 63 data sent successfully to iot sense gateway
+2018-11-01 17:51:55,749	INFO	row id: 63 data deleted successfully
+2018-11-01 17:51:55,750	INFO	sqlite connection clolsed
+2018-11-01 17:51:57,963	INFO	row id: 64 data sent successfully to iot sense gateway
+2018-11-01 17:51:57,965	INFO	connection to sqlite completed
+2018-11-01 17:51:58,064	INFO	row id: 64 data sent successfully to iot sense gateway
+2018-11-01 17:51:58,244	INFO	row id: 64 data deleted successfully
+2018-11-01 17:51:58,245	INFO	sqlite connection clolsed
+2018-11-01 17:52:00,445	INFO	row id: 65 data sent successfully to iot sense gateway
+2018-11-01 17:52:00,447	INFO	connection to sqlite completed
+2018-11-01 17:52:00,567	INFO	row id: 65 data sent successfully to iot sense gateway
+2018-11-01 17:52:00,751	INFO	row id: 65 data deleted successfully
+2018-11-01 17:52:00,753	INFO	sqlite connection clolsed
+2018-11-01 17:52:02,916	INFO	row id: 66 data sent successfully to iot sense gateway
+2018-11-01 17:52:02,917	INFO	connection to sqlite completed
+2018-11-01 17:52:03,012	INFO	row id: 66 data sent successfully to iot sense gateway
+2018-11-01 17:52:03,107	INFO	row id: 66 data deleted successfully
+2018-11-01 17:52:03,108	INFO	sqlite connection clolsed
+2018-11-01 17:52:05,315	INFO	row id: 67 data sent successfully to iot sense gateway
+2018-11-01 17:52:05,317	INFO	connection to sqlite completed
+2018-11-01 17:52:05,417	INFO	row id: 67 data sent successfully to iot sense gateway
+2018-11-01 17:52:05,489	INFO	row id: 67 data deleted successfully
+2018-11-01 17:52:05,490	INFO	sqlite connection clolsed
+2018-11-01 17:52:07,678	INFO	row id: 68 data sent successfully to iot sense gateway
+2018-11-01 17:52:07,680	INFO	connection to sqlite completed
+2018-11-01 17:52:07,772	INFO	row id: 68 data sent successfully to iot sense gateway
+2018-11-01 17:52:07,830	INFO	row id: 68 data deleted successfully
+2018-11-01 17:52:07,830	INFO	sqlite connection clolsed
+2018-11-01 17:52:09,991	INFO	row id: 69 data sent successfully to iot sense gateway
+2018-11-01 17:52:09,993	INFO	connection to sqlite completed
+2018-11-01 17:52:10,144	INFO	row id: 69 data sent successfully to iot sense gateway
+2018-11-01 17:52:10,205	INFO	row id: 69 data deleted successfully
+2018-11-01 17:52:10,206	INFO	sqlite connection clolsed
+2018-11-01 17:52:12,368	INFO	row id: 70 data sent successfully to iot sense gateway
+2018-11-01 17:52:12,370	INFO	connection to sqlite completed
+2018-11-01 17:52:12,456	INFO	row id: 70 data sent successfully to iot sense gateway
+2018-11-01 17:52:12,523	INFO	row id: 70 data deleted successfully
+2018-11-01 17:52:12,524	INFO	sqlite connection clolsed
+2018-11-01 17:52:14,691	INFO	row id: 71 data sent successfully to iot sense gateway
+2018-11-01 17:52:14,693	INFO	connection to sqlite completed
+2018-11-01 17:52:14,793	INFO	row id: 71 data sent successfully to iot sense gateway
+2018-11-01 17:52:14,840	INFO	row id: 71 data deleted successfully
+2018-11-01 17:52:14,842	INFO	sqlite connection clolsed
+2018-11-01 17:52:17,021	INFO	row id: 72 data sent successfully to iot sense gateway
+2018-11-01 17:52:17,023	INFO	connection to sqlite completed
+2018-11-01 17:52:17,122	INFO	row id: 72 data sent successfully to iot sense gateway
+2018-11-01 17:52:17,169	INFO	row id: 72 data deleted successfully
+2018-11-01 17:52:17,170	INFO	sqlite connection clolsed
+2018-11-01 17:52:19,324	INFO	row id: 73 data sent successfully to iot sense gateway
+2018-11-01 17:52:19,326	INFO	connection to sqlite completed
+2018-11-01 17:52:19,421	INFO	row id: 73 data sent successfully to iot sense gateway
+2018-11-01 17:52:19,499	INFO	row id: 73 data deleted successfully
+2018-11-01 17:52:19,501	INFO	sqlite connection clolsed
+2018-11-01 17:52:21,670	INFO	row id: 74 data sent successfully to iot sense gateway
+2018-11-01 17:52:21,672	INFO	connection to sqlite completed
+2018-11-01 17:52:22,808	INFO	row id: 74 data sent successfully to iot sense gateway
+2018-11-01 17:52:22,859	INFO	row id: 74 data deleted successfully
+2018-11-01 17:52:22,861	INFO	sqlite connection clolsed
+2018-11-01 17:52:25,094	INFO	row id: 75 data sent successfully to iot sense gateway
+2018-11-01 17:52:25,096	INFO	connection to sqlite completed
+2018-11-01 17:52:25,192	INFO	row id: 75 data sent successfully to iot sense gateway
+2018-11-01 17:52:25,276	INFO	row id: 75 data deleted successfully
+2018-11-01 17:52:25,277	INFO	sqlite connection clolsed
+2018-11-01 17:52:27,438	INFO	row id: 76 data sent successfully to iot sense gateway
+2018-11-01 17:52:27,440	INFO	connection to sqlite completed
+2018-11-01 17:52:27,575	INFO	row id: 76 data sent successfully to iot sense gateway
+2018-11-01 17:52:27,626	INFO	row id: 76 data deleted successfully
+2018-11-01 17:52:27,627	INFO	sqlite connection clolsed
+2018-11-01 17:52:29,801	INFO	row id: 77 data sent successfully to iot sense gateway
+2018-11-01 17:52:29,803	INFO	connection to sqlite completed
+2018-11-01 17:52:29,982	INFO	row id: 77 data sent successfully to iot sense gateway
+2018-11-01 17:52:30,032	INFO	row id: 77 data deleted successfully
+2018-11-01 17:52:30,033	INFO	sqlite connection clolsed
+2018-11-01 17:52:32,309	INFO	row id: 78 data sent successfully to iot sense gateway
+2018-11-01 17:52:32,312	INFO	connection to sqlite completed
+2018-11-01 17:52:32,474	INFO	row id: 78 data sent successfully to iot sense gateway
+2018-11-01 17:52:32,539	INFO	row id: 78 data deleted successfully
+2018-11-01 17:52:32,541	INFO	sqlite connection clolsed
+2018-11-01 17:52:34,982	INFO	row id: 79 data sent successfully to iot sense gateway
+2018-11-01 17:52:34,984	INFO	connection to sqlite completed
+2018-11-01 17:52:35,093	INFO	row id: 79 data sent successfully to iot sense gateway
+2018-11-01 17:52:35,136	INFO	row id: 79 data deleted successfully
+2018-11-01 17:52:35,137	INFO	sqlite connection clolsed
+2018-11-01 17:52:37,289	INFO	row id: 80 data sent successfully to iot sense gateway
+2018-11-01 17:52:37,291	INFO	connection to sqlite completed
+2018-11-01 17:52:37,394	INFO	row id: 80 data sent successfully to iot sense gateway
+2018-11-01 17:52:37,433	INFO	row id: 80 data deleted successfully
+2018-11-01 17:52:37,433	INFO	sqlite connection clolsed
+2018-11-01 17:52:39,603	INFO	row id: 81 data sent successfully to iot sense gateway
+2018-11-01 17:52:39,605	INFO	connection to sqlite completed
+2018-11-01 17:52:39,711	INFO	row id: 81 data sent successfully to iot sense gateway
+2018-11-01 17:52:39,763	INFO	row id: 81 data deleted successfully
+2018-11-01 17:52:39,764	INFO	sqlite connection clolsed
+2018-11-01 17:52:41,969	INFO	row id: 82 data sent successfully to iot sense gateway
+2018-11-01 17:52:41,971	INFO	connection to sqlite completed
+2018-11-01 17:52:42,095	INFO	row id: 82 data sent successfully to iot sense gateway
+2018-11-01 17:52:42,153	INFO	row id: 82 data deleted successfully
+2018-11-01 17:52:42,154	INFO	sqlite connection clolsed
+2018-11-01 17:52:44,426	INFO	row id: 83 data sent successfully to iot sense gateway
+2018-11-01 17:52:44,427	INFO	connection to sqlite completed
+2018-11-01 17:52:44,536	INFO	row id: 83 data sent successfully to iot sense gateway
+2018-11-01 17:52:44,596	INFO	row id: 83 data deleted successfully
+2018-11-01 17:52:44,598	INFO	sqlite connection clolsed
+2018-11-01 17:52:46,761	INFO	row id: 84 data sent successfully to iot sense gateway
+2018-11-01 17:52:46,763	INFO	connection to sqlite completed
+2018-11-01 17:52:46,870	INFO	row id: 84 data sent successfully to iot sense gateway
+2018-11-01 17:52:46,930	INFO	row id: 84 data deleted successfully
+2018-11-01 17:52:46,931	INFO	sqlite connection clolsed
+2018-11-01 17:52:49,139	INFO	row id: 85 data sent successfully to iot sense gateway
+2018-11-01 17:52:49,141	INFO	connection to sqlite completed
+2018-11-01 17:52:49,271	INFO	row id: 85 data sent successfully to iot sense gateway
+2018-11-01 17:52:49,389	INFO	row id: 85 data deleted successfully
+2018-11-01 17:52:49,391	INFO	sqlite connection clolsed
+2018-11-01 17:52:51,591	INFO	row id: 86 data sent successfully to iot sense gateway
+2018-11-01 17:52:51,593	INFO	connection to sqlite completed
+2018-11-01 17:52:51,707	INFO	row id: 86 data sent successfully to iot sense gateway
+2018-11-01 17:52:51,761	INFO	row id: 86 data deleted successfully
+2018-11-01 17:52:51,763	INFO	sqlite connection clolsed
+2018-11-01 17:52:54,161	INFO	row id: 87 data sent successfully to iot sense gateway
+2018-11-01 17:52:54,163	INFO	connection to sqlite completed
+2018-11-01 17:52:54,259	INFO	row id: 87 data sent successfully to iot sense gateway
+2018-11-01 17:52:54,327	INFO	row id: 87 data deleted successfully
+2018-11-01 17:52:54,328	INFO	sqlite connection clolsed
+2018-11-01 17:52:56,508	INFO	row id: 88 data sent successfully to iot sense gateway
+2018-11-01 17:52:56,509	INFO	connection to sqlite completed
+2018-11-01 17:52:56,585	INFO	row id: 88 data sent successfully to iot sense gateway
+2018-11-01 17:52:56,637	INFO	row id: 88 data deleted successfully
+2018-11-01 17:52:56,638	INFO	sqlite connection clolsed
+2018-11-01 17:52:58,804	INFO	row id: 89 data sent successfully to iot sense gateway
+2018-11-01 17:52:58,805	INFO	connection to sqlite completed
+2018-11-01 17:52:59,970	INFO	row id: 89 data sent successfully to iot sense gateway
+2018-11-01 17:53:00,012	INFO	row id: 89 data deleted successfully
+2018-11-01 17:53:00,012	INFO	sqlite connection clolsed
+2018-11-01 17:53:02,149	INFO	row id: 90 data sent successfully to iot sense gateway
+2018-11-01 17:53:02,150	INFO	connection to sqlite completed
+2018-11-01 17:53:02,239	INFO	row id: 90 data sent successfully to iot sense gateway
+2018-11-01 17:53:02,323	INFO	row id: 90 data deleted successfully
+2018-11-01 17:53:02,324	INFO	sqlite connection clolsed
+2018-11-01 17:53:04,487	INFO	row id: 91 data sent successfully to iot sense gateway
+2018-11-01 17:53:04,488	INFO	connection to sqlite completed
+2018-11-01 17:53:04,600	INFO	row id: 91 data sent successfully to iot sense gateway
+2018-11-01 17:53:04,647	INFO	row id: 91 data deleted successfully
+2018-11-01 17:53:04,648	INFO	sqlite connection clolsed
+2018-11-01 17:53:06,812	INFO	row id: 92 data sent successfully to iot sense gateway
+2018-11-01 17:53:06,813	INFO	connection to sqlite completed
+2018-11-01 17:53:06,913	INFO	row id: 92 data sent successfully to iot sense gateway
+2018-11-01 17:53:06,968	INFO	row id: 92 data deleted successfully
+2018-11-01 17:53:06,969	INFO	sqlite connection clolsed
+2018-11-01 17:53:09,218	INFO	row id: 93 data sent successfully to iot sense gateway
+2018-11-01 17:53:09,220	INFO	connection to sqlite completed
+2018-11-01 17:53:09,323	INFO	row id: 93 data sent successfully to iot sense gateway
+2018-11-01 17:53:09,374	INFO	row id: 93 data deleted successfully
+2018-11-01 17:53:09,375	INFO	sqlite connection clolsed
+2018-11-01 17:53:11,612	INFO	row id: 94 data sent successfully to iot sense gateway
+2018-11-01 17:53:11,614	INFO	connection to sqlite completed
+2018-11-01 17:53:11,806	INFO	row id: 94 data sent successfully to iot sense gateway
+2018-11-01 17:53:11,889	INFO	row id: 94 data deleted successfully
+2018-11-01 17:53:11,890	INFO	sqlite connection clolsed
+2018-11-01 17:53:14,133	INFO	row id: 95 data sent successfully to iot sense gateway
+2018-11-01 17:53:14,134	INFO	connection to sqlite completed
+2018-11-01 17:53:14,209	INFO	row id: 95 data sent successfully to iot sense gateway
+2018-11-01 17:53:14,695	INFO	row id: 95 data deleted successfully
+2018-11-01 17:53:14,696	INFO	sqlite connection clolsed
+2018-11-01 17:53:16,856	INFO	row id: 96 data sent successfully to iot sense gateway
+2018-11-01 17:53:16,857	INFO	connection to sqlite completed
+2018-11-01 17:53:17,148	INFO	row id: 96 data sent successfully to iot sense gateway
+2018-11-01 17:53:17,987	INFO	row id: 96 data deleted successfully
+2018-11-01 17:53:17,989	INFO	sqlite connection clolsed
+2018-11-01 17:53:20,323	INFO	row id: 97 data sent successfully to iot sense gateway
+2018-11-01 17:53:20,325	INFO	connection to sqlite completed
+2018-11-01 17:53:20,513	INFO	row id: 97 data sent successfully to iot sense gateway
+2018-11-01 17:53:20,708	INFO	row id: 97 data deleted successfully
+2018-11-01 17:53:20,710	INFO	sqlite connection clolsed
+2018-11-01 17:53:22,925	INFO	row id: 98 data sent successfully to iot sense gateway
+2018-11-01 17:53:22,926	INFO	connection to sqlite completed
+2018-11-01 17:53:23,025	INFO	row id: 98 data sent successfully to iot sense gateway
+2018-11-01 17:53:23,255	INFO	row id: 98 data deleted successfully
+2018-11-01 17:53:23,256	INFO	sqlite connection clolsed
+2018-11-01 17:53:25,428	INFO	row id: 99 data sent successfully to iot sense gateway
+2018-11-01 17:53:25,430	INFO	connection to sqlite completed
+2018-11-01 17:53:25,506	INFO	row id: 99 data sent successfully to iot sense gateway
+2018-11-01 17:53:25,628	INFO	row id: 99 data deleted successfully
+2018-11-01 17:53:25,629	INFO	sqlite connection clolsed
+2018-11-01 17:53:27,784	INFO	row id: 100 data sent successfully to iot sense gateway
+2018-11-01 17:53:27,785	INFO	connection to sqlite completed
+2018-11-01 17:53:27,880	INFO	row id: 100 data sent successfully to iot sense gateway
+2018-11-01 17:53:28,130	INFO	row id: 100 data deleted successfully
+2018-11-01 17:53:28,131	INFO	sqlite connection clolsed
+2018-11-01 17:53:30,566	INFO	row id: 101 data sent successfully to iot sense gateway
+2018-11-01 17:53:30,568	INFO	connection to sqlite completed
+2018-11-01 17:53:30,698	INFO	row id: 101 data sent successfully to iot sense gateway
+2018-11-01 17:53:30,921	INFO	row id: 101 data deleted successfully
+2018-11-01 17:53:30,922	INFO	sqlite connection clolsed
+2018-11-01 17:53:33,107	INFO	row id: 102 data sent successfully to iot sense gateway
+2018-11-01 17:53:33,108	INFO	connection to sqlite completed
+2018-11-01 17:53:33,215	INFO	row id: 102 data sent successfully to iot sense gateway
+2018-11-01 17:53:33,390	INFO	row id: 102 data deleted successfully
+2018-11-01 17:53:33,391	INFO	sqlite connection clolsed
+2018-11-01 17:53:35,684	INFO	row id: 103 data sent successfully to iot sense gateway
+2018-11-01 17:53:35,686	INFO	connection to sqlite completed
+2018-11-01 17:53:35,793	INFO	row id: 103 data sent successfully to iot sense gateway
+2018-11-01 17:53:35,973	INFO	row id: 103 data deleted successfully
+2018-11-01 17:53:35,975	INFO	sqlite connection clolsed
+2018-11-01 17:53:38,237	INFO	row id: 104 data sent successfully to iot sense gateway
+2018-11-01 17:53:38,239	INFO	connection to sqlite completed
+2018-11-01 17:53:38,368	INFO	row id: 104 data sent successfully to iot sense gateway
+2018-11-01 17:53:38,520	INFO	row id: 104 data deleted successfully
+2018-11-01 17:53:38,522	INFO	sqlite connection clolsed
+2018-11-01 17:53:40,725	INFO	row id: 105 data sent successfully to iot sense gateway
+2018-11-01 17:53:40,726	INFO	connection to sqlite completed
+2018-11-01 17:53:40,830	INFO	row id: 105 data sent successfully to iot sense gateway
+2018-11-01 17:53:40,996	INFO	row id: 105 data deleted successfully
+2018-11-01 17:53:40,997	INFO	sqlite connection clolsed
+2018-11-01 17:53:43,164	INFO	row id: 106 data sent successfully to iot sense gateway
+2018-11-01 17:53:43,166	INFO	connection to sqlite completed
+2018-11-01 17:53:43,271	INFO	row id: 106 data sent successfully to iot sense gateway
+2018-11-01 17:53:43,426	INFO	row id: 106 data deleted successfully
+2018-11-01 17:53:43,427	INFO	sqlite connection clolsed
+2018-11-01 17:53:46,110	INFO	row id: 107 data sent successfully to iot sense gateway
+2018-11-01 17:53:46,112	INFO	connection to sqlite completed
+2018-11-01 17:53:46,229	INFO	row id: 107 data sent successfully to iot sense gateway
+2018-11-01 17:53:46,383	INFO	row id: 107 data deleted successfully
+2018-11-01 17:53:46,383	INFO	sqlite connection clolsed
+2018-11-01 17:53:48,613	INFO	row id: 108 data sent successfully to iot sense gateway
+2018-11-01 17:53:48,615	INFO	connection to sqlite completed
+2018-11-01 17:53:48,974	INFO	row id: 108 data sent successfully to iot sense gateway
+2018-11-01 17:53:49,146	INFO	row id: 108 data deleted successfully
+2018-11-01 17:53:49,148	INFO	sqlite connection clolsed
+2018-11-01 17:53:51,340	INFO	row id: 109 data sent successfully to iot sense gateway
+2018-11-01 17:53:51,342	INFO	connection to sqlite completed
+2018-11-01 17:53:51,474	INFO	row id: 109 data sent successfully to iot sense gateway
+2018-11-01 17:53:51,665	INFO	row id: 109 data deleted successfully
+2018-11-01 17:53:51,666	INFO	sqlite connection clolsed
+2018-11-01 17:53:53,830	INFO	row id: 110 data sent successfully to iot sense gateway
+2018-11-01 17:53:53,831	INFO	connection to sqlite completed
+2018-11-01 17:53:54,012	INFO	row id: 110 data sent successfully to iot sense gateway
+2018-11-01 17:53:54,169	INFO	row id: 110 data deleted successfully
+2018-11-01 17:53:54,170	INFO	sqlite connection clolsed
+2018-11-01 17:53:56,268	INFO	connection to sqlite completed
+2018-11-01 17:53:56,665	INFO	No data to upload
+2018-11-01 17:53:56,705	INFO	sqlite connection closed
+2018-11-01 17:54:26,737	INFO	connection to sqlite completed
+2018-11-01 17:54:26,921	INFO	No data to upload
+2018-11-01 17:54:26,958	INFO	sqlite connection closed
+2018-11-01 17:54:56,986	INFO	connection to sqlite completed
+2018-11-01 17:54:57,154	INFO	No data to upload
+2018-11-01 17:54:57,200	INFO	sqlite connection closed
+2018-11-01 17:55:27,227	INFO	connection to sqlite completed
+2018-11-01 17:55:27,376	INFO	No data to upload
+2018-11-01 17:55:27,412	INFO	sqlite connection closed
+2018-11-01 17:55:57,421	INFO	connection to sqlite completed
+2018-11-01 17:55:57,570	INFO	No data to upload
+2018-11-01 17:55:57,610	INFO	sqlite connection closed
+2018-11-01 17:56:27,642	INFO	connection to sqlite completed
+2018-11-01 17:56:27,799	INFO	No data to upload
+2018-11-01 17:56:27,822	INFO	sqlite connection closed
+2018-11-01 17:56:57,846	INFO	connection to sqlite completed
+2018-11-01 17:56:57,981	INFO	No data to upload
+2018-11-01 17:56:58,007	INFO	sqlite connection closed
+2018-11-01 17:57:28,038	INFO	connection to sqlite completed
+2018-11-01 17:57:28,185	INFO	No data to upload
+2018-11-01 17:57:28,225	INFO	sqlite connection closed
+2018-11-01 17:57:58,250	INFO	connection to sqlite completed
+2018-11-01 17:57:58,402	INFO	No data to upload
+2018-11-01 17:57:58,431	INFO	sqlite connection closed
+2018-11-01 17:58:28,463	INFO	connection to sqlite completed
+2018-11-01 17:58:28,601	INFO	No data to upload
+2018-11-01 17:58:28,626	INFO	sqlite connection closed
+2018-11-01 17:58:58,658	INFO	connection to sqlite completed
+2018-11-01 17:58:59,071	INFO	No data to upload
+2018-11-01 17:58:59,112	INFO	sqlite connection closed
+2018-11-01 17:59:29,144	INFO	connection to sqlite completed
+2018-11-01 17:59:29,287	INFO	No data to upload
+2018-11-01 17:59:29,307	INFO	sqlite connection closed
+2018-11-01 17:59:59,330	INFO	connection to sqlite completed
+2018-11-01 17:59:59,535	INFO	No data to upload
+2018-11-01 17:59:59,567	INFO	sqlite connection closed
+2018-11-01 18:00:29,596	INFO	connection to sqlite completed
+2018-11-01 18:00:29,734	INFO	No data to upload
+2018-11-01 18:00:29,766	INFO	sqlite connection closed
+2018-11-01 18:00:59,798	INFO	connection to sqlite completed
+2018-11-01 18:00:59,952	INFO	No data to upload
+2018-11-01 18:00:59,987	INFO	sqlite connection closed
+2018-11-01 18:01:30,019	INFO	connection to sqlite completed
+2018-11-01 18:01:30,180	INFO	No data to upload
+2018-11-01 18:01:30,216	INFO	sqlite connection closed
+2018-11-01 18:02:00,230	INFO	connection to sqlite completed
+2018-11-01 18:02:00,409	INFO	No data to upload
+2018-11-01 18:02:00,461	INFO	sqlite connection closed
+2018-11-01 18:02:30,486	INFO	connection to sqlite completed
+2018-11-01 18:02:30,633	INFO	No data to upload
+2018-11-01 18:02:30,665	INFO	sqlite connection closed
+2018-11-01 18:03:00,668	INFO	connection to sqlite completed
+2018-11-01 18:03:00,806	INFO	No data to upload
+2018-11-01 18:03:00,837	INFO	sqlite connection closed
+2018-11-01 18:03:30,855	INFO	connection to sqlite completed
+2018-11-01 18:03:31,041	INFO	No data to upload
+2018-11-01 18:03:31,078	INFO	sqlite connection closed
+2018-11-01 18:04:01,087	INFO	connection to sqlite completed
+2018-11-01 18:04:01,234	INFO	No data to upload
+2018-11-01 18:04:01,323	INFO	sqlite connection closed
+2018-11-01 18:04:31,354	INFO	connection to sqlite completed
+2018-11-01 18:04:31,541	INFO	No data to upload
+2018-11-01 18:04:31,576	INFO	sqlite connection closed
+2018-11-01 18:05:01,608	INFO	connection to sqlite completed
+2018-11-01 18:05:03,388	INFO	No data to upload
+2018-11-01 18:05:03,436	INFO	sqlite connection closed
+2018-11-01 18:05:33,468	INFO	connection to sqlite completed
+2018-11-01 18:05:34,490	INFO	No data to upload
+2018-11-01 18:05:34,609	INFO	sqlite connection closed
+2018-11-01 18:06:04,625	INFO	connection to sqlite completed
+2018-11-01 18:06:04,872	INFO	No data to upload
+2018-11-01 18:06:04,929	INFO	sqlite connection closed
+2018-11-01 18:06:34,961	INFO	connection to sqlite completed
+2018-11-01 18:06:35,235	INFO	No data to upload
+2018-11-01 18:06:35,283	INFO	sqlite connection closed
+2018-11-01 18:07:05,315	INFO	connection to sqlite completed
+2018-11-01 18:07:06,571	INFO	No data to upload
+2018-11-01 18:07:06,667	INFO	sqlite connection closed
+2018-11-01 18:07:36,699	INFO	connection to sqlite completed
+2018-11-01 18:07:37,062	INFO	No data to upload
+2018-11-01 18:07:37,109	INFO	sqlite connection closed
+2018-11-01 18:08:07,141	INFO	connection to sqlite completed
+2018-11-01 18:08:07,412	INFO	No data to upload
+2018-11-01 18:08:07,506	INFO	sqlite connection closed
+2018-11-01 18:08:37,538	INFO	connection to sqlite completed
+2018-11-01 18:08:37,735	INFO	No data to upload
+2018-11-01 18:08:37,776	INFO	sqlite connection closed
+2018-11-01 18:09:07,808	INFO	connection to sqlite completed
+2018-11-01 18:09:08,007	INFO	No data to upload
+2018-11-01 18:09:08,062	INFO	sqlite connection closed
+2018-11-01 18:09:38,085	INFO	connection to sqlite completed
+2018-11-01 18:09:38,306	INFO	No data to upload
+2018-11-01 18:09:38,348	INFO	sqlite connection closed
+2018-11-01 18:10:08,367	INFO	connection to sqlite completed
+2018-11-01 18:10:09,418	INFO	No data to upload
+2018-11-01 18:10:09,451	INFO	sqlite connection closed
+2018-11-01 18:10:39,457	INFO	connection to sqlite completed
+2018-11-01 18:10:39,658	INFO	No data to upload
+2018-11-01 18:10:39,704	INFO	sqlite connection closed
+2018-11-01 18:11:09,735	INFO	connection to sqlite completed
+2018-11-01 18:11:09,912	INFO	No data to upload
+2018-11-01 18:11:09,948	INFO	sqlite connection closed
+2018-11-01 18:11:39,956	INFO	connection to sqlite completed
+2018-11-01 18:11:40,402	INFO	No data to upload
+2018-11-01 18:11:40,447	INFO	sqlite connection closed
+2018-11-01 18:12:10,454	INFO	connection to sqlite completed
+2018-11-01 18:12:10,639	INFO	No data to upload
+2018-11-01 18:12:10,703	INFO	sqlite connection closed
+2018-11-01 18:12:40,706	INFO	connection to sqlite completed
+2018-11-01 18:12:40,867	INFO	No data to upload
+2018-11-01 18:12:40,905	INFO	sqlite connection closed
+2018-11-01 18:13:10,933	INFO	connection to sqlite completed
+2018-11-01 18:13:11,166	INFO	No data to upload
+2018-11-01 18:13:11,207	INFO	sqlite connection closed
+2018-11-01 18:13:41,236	INFO	connection to sqlite completed
+2018-11-01 18:13:41,436	INFO	No data to upload
+2018-11-01 18:13:41,474	INFO	sqlite connection closed
+2018-11-01 18:14:11,495	INFO	connection to sqlite completed
+2018-11-01 18:14:11,696	INFO	No data to upload
+2018-11-01 18:14:11,728	INFO	sqlite connection closed
+2018-11-01 18:14:41,760	INFO	connection to sqlite completed
+2018-11-01 18:14:41,978	INFO	No data to upload
+2018-11-01 18:14:42,020	INFO	sqlite connection closed
+2018-11-01 18:15:12,028	INFO	connection to sqlite completed
+2018-11-01 18:15:12,192	INFO	No data to upload
+2018-11-01 18:15:12,235	INFO	sqlite connection closed
+2018-11-01 18:15:42,240	INFO	connection to sqlite completed
+2018-11-01 18:15:42,489	INFO	No data to upload
+2018-11-01 18:15:42,540	INFO	sqlite connection closed
+2018-11-01 18:16:12,547	INFO	connection to sqlite completed
+2018-11-01 18:16:13,080	INFO	No data to upload
+2018-11-01 18:16:13,143	INFO	sqlite connection closed
+2018-11-01 18:16:43,159	INFO	connection to sqlite completed
+2018-11-01 18:16:43,510	INFO	No data to upload
+2018-11-01 18:16:43,553	INFO	sqlite connection closed
+2018-11-01 18:17:13,578	INFO	connection to sqlite completed
+2018-11-01 18:17:13,922	INFO	No data to upload
+2018-11-01 18:17:13,970	INFO	sqlite connection closed
+2018-11-01 18:17:44,002	INFO	connection to sqlite completed
+2018-11-01 18:17:44,254	INFO	No data to upload
+2018-11-01 18:17:44,312	INFO	sqlite connection closed
+2018-11-01 18:18:14,328	INFO	connection to sqlite completed
+2018-11-01 18:18:14,656	INFO	No data to upload
+2018-11-01 18:18:14,802	INFO	sqlite connection closed
+2018-11-01 18:18:44,819	INFO	connection to sqlite completed
+2018-11-01 18:18:45,045	INFO	No data to upload
+2018-11-01 18:18:45,110	INFO	sqlite connection closed
+2018-11-01 18:19:15,133	INFO	connection to sqlite completed
+2018-11-01 18:19:15,402	INFO	No data to upload
+2018-11-01 18:19:15,451	INFO	sqlite connection closed
+2018-11-01 18:19:45,483	INFO	connection to sqlite completed
+2018-11-01 18:19:45,630	INFO	No data to upload
+2018-11-01 18:19:45,671	INFO	sqlite connection closed
+2018-11-01 18:20:15,688	INFO	connection to sqlite completed
+2018-11-01 18:20:15,987	INFO	No data to upload
+2018-11-01 18:20:16,034	INFO	sqlite connection closed
+2018-11-01 18:20:46,066	INFO	connection to sqlite completed
+2018-11-01 18:20:46,280	INFO	No data to upload
+2018-11-01 18:20:46,321	INFO	sqlite connection closed
+2018-11-01 18:21:16,353	INFO	connection to sqlite completed
+2018-11-01 18:21:16,582	INFO	No data to upload
+2018-11-01 18:21:16,636	INFO	sqlite connection closed
+2018-11-01 18:21:46,668	INFO	connection to sqlite completed
+2018-11-01 18:21:47,260	INFO	No data to upload
+2018-11-01 18:21:47,316	INFO	sqlite connection closed
+2018-11-01 18:22:17,337	INFO	connection to sqlite completed
+2018-11-01 18:22:17,578	INFO	No data to upload
+2018-11-01 18:22:17,645	INFO	sqlite connection closed
+2018-11-01 18:22:47,677	INFO	connection to sqlite completed
+2018-11-01 18:22:47,985	INFO	No data to upload
+2018-11-01 18:22:48,105	INFO	sqlite connection closed
+2018-11-01 18:23:18,135	INFO	connection to sqlite completed
+2018-11-01 18:23:18,491	INFO	No data to upload
+2018-11-01 18:23:18,588	INFO	sqlite connection closed
+2018-11-01 18:23:48,619	INFO	connection to sqlite completed
+2018-11-01 18:23:48,818	INFO	No data to upload
+2018-11-01 18:23:48,908	INFO	sqlite connection closed
+2018-11-01 18:24:18,934	INFO	connection to sqlite completed
+2018-11-01 18:24:19,545	INFO	No data to upload
+2018-11-01 18:24:19,603	INFO	sqlite connection closed
+2018-11-01 18:24:49,635	INFO	connection to sqlite completed
+2018-11-01 18:24:49,819	INFO	No data to upload
+2018-11-01 18:24:49,869	INFO	sqlite connection closed
+2018-11-01 18:25:19,900	INFO	connection to sqlite completed
+2018-11-01 18:25:20,478	INFO	No data to upload
+2018-11-01 18:25:20,567	INFO	sqlite connection closed
+2018-11-01 18:25:50,577	INFO	connection to sqlite completed
+2018-11-01 18:25:50,801	INFO	No data to upload
+2018-11-01 18:25:50,876	INFO	sqlite connection closed
+2018-11-01 18:26:20,900	INFO	connection to sqlite completed
+2018-11-01 18:26:21,160	INFO	No data to upload
+2018-11-01 18:26:21,195	INFO	sqlite connection closed
+2018-11-01 18:26:51,227	INFO	connection to sqlite completed
+2018-11-01 18:26:51,395	INFO	No data to upload
+2018-11-01 18:26:51,429	INFO	sqlite connection closed
+2018-11-01 18:27:21,446	INFO	connection to sqlite completed
+2018-11-01 18:27:21,579	INFO	No data to upload
+2018-11-01 18:27:21,610	INFO	sqlite connection closed
+2018-11-01 18:27:51,642	INFO	connection to sqlite completed
+2018-11-01 18:27:51,813	INFO	No data to upload
+2018-11-01 18:27:51,853	INFO	sqlite connection closed
+2018-11-01 18:28:21,884	INFO	connection to sqlite completed
+2018-11-01 18:28:22,069	INFO	No data to upload
+2018-11-01 18:28:22,111	INFO	sqlite connection closed
+2018-11-01 18:28:52,143	INFO	connection to sqlite completed
+2018-11-01 18:28:52,351	INFO	No data to upload
+2018-11-01 18:28:52,386	INFO	sqlite connection closed
+2018-11-01 18:29:22,416	INFO	connection to sqlite completed
+2018-11-01 18:29:22,665	INFO	No data to upload
+2018-11-01 18:29:22,704	INFO	sqlite connection closed
+2018-11-01 18:29:52,718	INFO	connection to sqlite completed
+2018-11-01 18:29:52,893	INFO	No data to upload
+2018-11-01 18:29:52,932	INFO	sqlite connection closed
+2018-11-01 18:30:22,964	INFO	connection to sqlite completed
+2018-11-01 18:30:32,867	INFO	No data to upload
+2018-11-01 18:30:33,676	INFO	sqlite connection closed
+2018-11-01 18:31:03,703	INFO	connection to sqlite completed
+2018-11-01 18:31:06,138	INFO	No data to upload
+2018-11-01 18:31:06,465	INFO	sqlite connection closed
+2018-11-01 18:31:36,476	INFO	connection to sqlite completed
+2018-11-01 18:31:37,031	INFO	No data to upload
+2018-11-01 18:31:37,117	INFO	sqlite connection closed
+2018-11-01 18:32:07,149	INFO	connection to sqlite completed
+2018-11-01 18:32:07,347	INFO	No data to upload
+2018-11-01 18:32:07,391	INFO	sqlite connection closed
+2018-11-01 18:32:37,422	INFO	connection to sqlite completed
+2018-11-01 18:32:38,144	INFO	No data to upload
+2018-11-01 18:32:38,180	INFO	sqlite connection closed
+2018-11-01 18:33:08,207	INFO	connection to sqlite completed
+2018-11-01 18:33:08,798	INFO	No data to upload
+2018-11-01 18:33:08,836	INFO	sqlite connection closed
+2018-11-01 18:33:38,860	INFO	connection to sqlite completed
+2018-11-01 18:33:39,232	INFO	No data to upload
+2018-11-01 18:33:39,269	INFO	sqlite connection closed
+2018-11-01 18:34:09,300	INFO	connection to sqlite completed
+2018-11-01 18:34:09,702	INFO	No data to upload
+2018-11-01 18:34:09,742	INFO	sqlite connection closed
+2018-11-01 18:34:39,762	INFO	connection to sqlite completed
+2018-11-01 18:34:39,975	INFO	No data to upload
+2018-11-01 18:34:40,023	INFO	sqlite connection closed
+2018-11-01 18:35:10,054	INFO	connection to sqlite completed
+2018-11-01 18:35:13,796	INFO	No data to upload
+2018-11-01 18:35:13,880	INFO	sqlite connection closed
+2018-11-01 18:35:43,909	INFO	connection to sqlite completed
+2018-11-01 18:35:44,167	INFO	No data to upload
+2018-11-01 18:35:44,218	INFO	sqlite connection closed
+2018-11-01 18:36:14,250	INFO	connection to sqlite completed
+2018-11-01 18:36:14,375	INFO	No data to upload
+2018-11-01 18:36:15,838	INFO	sqlite connection closed
+2018-11-01 18:36:45,870	INFO	connection to sqlite completed
+2018-11-01 18:36:49,503	INFO	No data to upload
+2018-11-01 18:36:50,979	INFO	sqlite connection closed
+2018-11-01 18:37:21,011	INFO	connection to sqlite completed
+2018-11-01 18:37:27,859	INFO	No data to upload
+2018-11-01 18:37:28,174	INFO	sqlite connection closed
+2018-11-01 18:37:58,180	INFO	connection to sqlite completed
+2018-11-01 18:38:00,535	INFO	No data to upload
+2018-11-01 18:38:00,855	INFO	sqlite connection closed
+2018-11-01 18:38:30,886	INFO	connection to sqlite completed
+2018-11-01 18:38:41,868	INFO	No data to upload
+2018-11-01 18:38:41,931	INFO	sqlite connection closed
+2018-11-01 18:39:11,962	INFO	connection to sqlite completed
+2018-11-01 18:39:12,327	INFO	No data to upload
+2018-11-01 18:39:12,411	INFO	sqlite connection closed
+2018-11-01 18:39:42,443	INFO	connection to sqlite completed
+2018-11-01 18:39:42,661	INFO	No data to upload
+2018-11-01 18:39:42,700	INFO	sqlite connection closed
+2018-11-01 18:40:12,703	INFO	connection to sqlite completed
+2018-11-01 18:40:13,000	INFO	No data to upload
+2018-11-01 18:40:13,042	INFO	sqlite connection closed
+2018-11-01 18:40:43,047	INFO	connection to sqlite completed
+2018-11-01 18:40:43,439	INFO	No data to upload
+2018-11-01 18:40:43,479	INFO	sqlite connection closed
+2018-11-01 18:41:13,489	INFO	connection to sqlite completed
+2018-11-01 18:41:13,911	INFO	No data to upload
+2018-11-01 18:41:13,953	INFO	sqlite connection closed
+2018-11-01 18:41:43,965	INFO	connection to sqlite completed
+2018-11-01 18:41:44,138	INFO	No data to upload
+2018-11-01 18:41:44,237	INFO	sqlite connection closed
+2018-11-01 18:42:14,240	INFO	connection to sqlite completed
+2018-11-01 18:42:15,169	INFO	No data to upload
+2018-11-01 18:42:15,548	INFO	sqlite connection closed
+2018-11-01 18:42:45,580	INFO	connection to sqlite completed
+2018-11-01 18:42:46,227	INFO	No data to upload
+2018-11-01 18:42:46,262	INFO	sqlite connection closed
+2018-11-01 18:43:16,293	INFO	connection to sqlite completed
+2018-11-01 18:43:16,478	INFO	No data to upload
+2018-11-01 18:43:16,520	INFO	sqlite connection closed
+2018-11-01 18:43:46,535	INFO	connection to sqlite completed
+2018-11-01 18:43:47,041	INFO	No data to upload
+2018-11-01 18:43:47,123	INFO	sqlite connection closed
+2018-11-01 18:44:17,134	INFO	connection to sqlite completed
+2018-11-01 18:44:17,647	INFO	No data to upload
+2018-11-01 18:44:17,695	INFO	sqlite connection closed
+2018-11-01 18:44:47,727	INFO	connection to sqlite completed
+2018-11-01 18:44:48,220	INFO	No data to upload
+2018-11-01 18:44:48,382	INFO	sqlite connection closed
+2018-11-01 18:45:18,406	INFO	connection to sqlite completed
+2018-11-01 18:45:18,671	INFO	No data to upload
+2018-11-01 18:45:18,704	INFO	sqlite connection closed
+2018-11-01 18:45:48,735	INFO	connection to sqlite completed
+2018-11-01 18:45:49,087	INFO	No data to upload
+2018-11-01 18:45:49,134	INFO	sqlite connection closed
+2018-11-01 18:46:19,166	INFO	connection to sqlite completed
+2018-11-01 18:46:19,386	INFO	No data to upload
+2018-11-01 18:46:19,631	INFO	sqlite connection closed
+2018-11-01 18:46:49,663	INFO	connection to sqlite completed
+2018-11-01 18:46:50,220	INFO	No data to upload
+2018-11-01 18:46:50,266	INFO	sqlite connection closed
+2018-11-01 18:47:20,298	INFO	connection to sqlite completed
+2018-11-01 18:47:27,148	INFO	No data to upload
+2018-11-01 18:47:27,218	INFO	sqlite connection closed
+2018-11-01 18:47:57,250	INFO	connection to sqlite completed
+2018-11-01 18:47:57,448	INFO	No data to upload
+2018-11-01 18:47:57,576	INFO	sqlite connection closed
+2018-11-01 18:48:27,596	INFO	connection to sqlite completed
+2018-11-01 18:49:40,769	INFO	No data to upload
+2018-11-01 18:49:40,843	INFO	sqlite connection closed
+2018-11-01 18:50:10,859	INFO	connection to sqlite completed
+2018-11-01 18:50:11,095	INFO	No data to upload
+2018-11-01 18:50:11,187	INFO	sqlite connection closed
+2018-11-01 18:50:41,193	INFO	connection to sqlite completed
+2018-11-01 18:50:41,399	INFO	No data to upload
+2018-11-01 18:50:41,476	INFO	sqlite connection closed
+2018-11-01 18:51:11,507	INFO	connection to sqlite completed
+2018-11-01 18:51:12,272	INFO	No data to upload
+2018-11-01 18:51:12,337	INFO	sqlite connection closed
+2018-11-01 18:51:42,352	INFO	connection to sqlite completed
+2018-11-01 18:51:43,805	INFO	No data to upload
+2018-11-01 18:51:44,015	INFO	sqlite connection closed
+2018-11-01 18:52:14,047	INFO	connection to sqlite completed
+2018-11-01 18:52:14,306	INFO	No data to upload
+2018-11-01 18:52:14,388	INFO	sqlite connection closed
+2018-11-01 18:52:44,419	INFO	connection to sqlite completed
+2018-11-01 18:52:45,089	INFO	No data to upload
+2018-11-01 18:52:45,128	INFO	sqlite connection closed
+2018-11-01 18:53:15,141	INFO	connection to sqlite completed
+2018-11-01 18:53:15,319	INFO	No data to upload
+2018-11-01 18:53:15,349	INFO	sqlite connection closed
+2018-11-01 18:53:45,380	INFO	connection to sqlite completed
+2018-11-01 18:53:45,572	INFO	No data to upload
+2018-11-01 18:53:45,611	INFO	sqlite connection closed
+2018-11-01 18:54:15,643	INFO	connection to sqlite completed
+2018-11-01 18:54:15,770	INFO	No data to upload
+2018-11-01 18:54:15,860	INFO	sqlite connection closed
+2018-11-01 18:54:45,880	INFO	connection to sqlite completed
+2018-11-01 18:54:46,029	INFO	No data to upload
+2018-11-01 18:54:46,063	INFO	sqlite connection closed
+2018-11-01 18:55:16,095	INFO	connection to sqlite completed
+2018-11-01 18:55:16,247	INFO	No data to upload
+2018-11-01 18:55:16,329	INFO	sqlite connection closed
+2018-11-01 18:55:46,361	INFO	connection to sqlite completed
+2018-11-01 18:55:46,497	INFO	No data to upload
+2018-11-01 18:55:46,519	INFO	sqlite connection closed
+2018-11-01 18:55:56,884	INFO	connection to sqlite completed
+2018-11-01 18:55:56,982	INFO	No data to upload
+2018-11-01 18:55:57,005	INFO	sqlite connection closed
+2018-11-01 18:58:51,822	INFO	connection to sqlite completed
+2018-11-01 18:58:52,030	INFO	mqtt send fail... so goes into sleep for 30 sec
+2018-11-01 18:58:52,031	INFO	sqlite connection clolsed
+2018-11-01 18:59:22,159	INFO	starting another attempt to send data
+2018-11-01 18:59:22,160	INFO	connection to sqlite completed
+2018-11-01 18:59:22,257	INFO	mqtt send fail... so goes into sleep for 30 sec
+2018-11-01 18:59:22,258	INFO	sqlite connection clolsed
+2018-11-01 18:59:52,322	INFO	starting another attempt to send data
+2018-11-01 18:59:52,324	INFO	connection to sqlite completed
+2018-11-01 18:59:52,492	INFO	mqtt send fail... so goes into sleep for 30 sec
+2018-11-01 18:59:52,493	INFO	sqlite connection clolsed
+2018-11-01 19:02:10,166	INFO	connection to sqlite completed
+2018-11-01 19:02:10,414	INFO	mqtt send fail... so goes into sleep for 30 sec
+2018-11-01 19:02:10,416	INFO	sqlite connection clolsed
+2018-11-01 19:07:55,912	INFO	connection to sqlite completed
+2018-11-01 19:07:56,379	INFO	mqtt send fail... so goes into sleep for 30 sec
+2018-11-01 19:07:56,380	INFO	sqlite connection clolsed
+2018-11-01 19:08:26,481	INFO	starting another attempt to send data
+2018-11-01 19:08:26,482	INFO	connection to sqlite completed
+2018-11-01 19:08:26,604	INFO	mqtt send fail... so goes into sleep for 30 sec
+2018-11-01 19:08:26,605	INFO	sqlite connection clolsed
+2018-11-01 19:08:33,964	INFO	connection to sqlite completed
+2018-11-01 19:08:36,053	INFO	row id: 111 data sent successfully to iot sense gateway
+2018-11-01 19:08:36,217	INFO	row id: 111 data deleted successfully
+2018-11-01 19:08:36,264	INFO	sqlite connection clolsed
+2018-11-01 19:08:38,296	INFO	connection to sqlite completed
+2018-11-01 19:08:38,390	INFO	No data to upload
+2018-11-01 19:08:38,416	INFO	sqlite connection closed

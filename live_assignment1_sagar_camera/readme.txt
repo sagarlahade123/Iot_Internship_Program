@@ -1,0 +1,1 @@
+This program fetch interval from json file, and continivously capture images from pi camera with interval.
